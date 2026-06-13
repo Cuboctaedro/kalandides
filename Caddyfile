@@ -1,0 +1,19 @@
+{
+    frankenphp
+    # Trust Coolify's reverse proxy (Traefik) so HTTPS is detected correctly
+    servers {
+        trusted_proxies static private_ranges
+    }
+}
+
+:80 {
+    root * /app
+    encode zstd gzip
+
+    # Deny direct access to Kirby internals and dotfiles
+    @blocked path /content/* /site/* /kirby/* /.*
+    respond @blocked 403
+
+    # Serve static files; route everything else to index.php
+    php_server
+}

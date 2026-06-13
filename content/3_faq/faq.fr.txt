@@ -1,0 +1,49 @@
+Title: FAQ
+
+----
+
+Faq:
+
+-
+  question: 'Quelle est la différence entre coaching et thérapie ?'
+  answer: '<p>Le coaching est un processus réfléchi et structuré, centré sur votre situation actuelle, vos décisions et les changements que vous souhaitez mettre en place. La thérapie travaille en général plus directement avec la souffrance psychique, les traumatismes ou des troubles de santé mentale. Le coaching ne se substitue pas à une thérapie.</p>'
+-
+  question: 'Le coaching est‑il la même chose que le mentorat ?'
+  answer: '<p>Non. Le mentorat implique généralement l’accompagnement par une personne expérimentée dans un domaine ou un rôle particulier. Le coaching repose moins sur le conseil et vise plutôt à vous aider à penser votre situation, à clarifier ce qui est important pour vous et à trouver votre propre façon d’avancer.</p>'
+-
+  question: 'Le coaching peut‑il aider si je ne sais pas ce que je veux ?'
+  answer: '<p>Oui. Le coaching peut être utile lorsque vous vous sentez incertain·e, bloqué·e ou lorsque vous avez du mal à formuler votre prochain pas. Vous n’avez pas besoin d’arriver avec un objectif déjà entièrement défini.</p>'
+-
+  question: 'Combien de séances sont en général nécessaires ?'
+  answer: '<p>Cela dépend de la situation, mais nous considérons que le minimum est de quatre séances. Certaines personnes viennent pour quelques séances autour d’une question bien précise, tandis que d’autres travaillent sur une période plus longue lorsque les thèmes sont plus complexes ou s’inscrivent dans la durée.</p>'
+-
+  question: 'Combien de temps dure une séance ?'
+  answer: '<p>Les séances durent généralement entre 60 et 120 minutes. Le format le plus courant est de 90 minutes.</p>'
+-
+  question: 'Travaillez‑vous en ligne ou seulement en présentiel ?'
+  answer: '<p>Les deux sont possibles. Le coaching en ligne fonctionne bien et offre de la flexibilité, même si ce n’est pas toujours la forme préférée de chacun·e. Des séances en présentiel sont également possibles à Berlin et à Athènes.</p>'
+-
+  question: 'Comment me préparer à une séance de coaching ?'
+  answer: '<p>Une préparation lourde n’est pas nécessaire. Il suffit de venir avec une idée de ce qui, en ce moment, vous paraît le plus urgent, confus ou important. L’ouverture et la volonté de réfléchir sont plus utiles que d’avoir déjà tout formulé parfaitement.</p>'
+-
+  question: 'En combien de temps vais‑je remarquer une différence ?'
+  answer: '<p>Cela varie d’une personne à l’autre. Certaines remarquent un changement après seulement quelques séances, surtout lorsqu’elles travaillent sur une question bien définie. D’autres processus prennent plus de temps, en particulier lorsque la situation est plus complexe ou installée de longue date.</p>'
+-
+  question: 'Que se passe‑t‑il lors d’un premier entretien ?'
+  answer: '<p>Nous parlons de ce qui vous amène au coaching, du type de soutien que vous recherchez et de la manière dont une collaboration pourrait vous convenir. Ce premier échange est aussi l’occasion pour vous de poser des questions.</p>'
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

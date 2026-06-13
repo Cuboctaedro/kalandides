@@ -1,0 +1,62 @@
+title: Blog Post
+
+icon: book
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu
+
+tabs:
+  content:
+    label: Content
+    fields:
+      title:
+        label: Title
+        type: text
+      date:
+        label: Publication date
+        type: date
+      intro:
+        label: intro
+        type: textarea
+      content:
+        label: Content
+        type: blocks
+        fieldsets:
+          - text
+          - heading
+          - list
+          - image
+          - quote
+
+  meta:
+    fields:
+      title:
+        type: text
+        label: Meta Title
+      description:
+        type: textarea
+        label: Meta Description
+      image:
+        type: files
+        label: Meta Image
+        multiple: false
+      metaindex:
+        type: toggle
+        label: Add noindex?
+        text:
+          - no
+          - yes
+        default: false
+      follow:
+        type: toggle
+        label: Add nofollow?
+        text:
+          - no
+          - yes
+        default: false

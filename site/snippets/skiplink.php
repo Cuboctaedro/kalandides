@@ -1,0 +1,1 @@
+<a href="#main" class="absolute h-8 -top-8 left-0 focus:top-0 px-2 flex items-center justify-center bg-stone-800 text-stone-50 font-sans text-sm uppercase">Skip to content</a>

@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&family=Lilex:ital,wght@0,100..700;1,100..700&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap");
+@import "tailwindcss" source(none);
+
+@source "../site/snippets/**/*.php";
+@source "../site/templates/**/*.php";
+
+@theme {
+  --font-sans:
+    "Commissioner", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-serif:
+    "Literata", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-mono:
+    "Lilex", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  /* ... */
+}
+
+.generated p {
+  @apply pb-4;
+}
+
+.generated ul {
+  @apply pb-4 list-disc list-outside pl-6;
+}
+
+.generated li {
+  @apply pb-2;
+}
+
+.generated li::marker {
+  @apply text-gray-400;
+}
+
+.generated ul p {
+  @apply pb-0;
+}

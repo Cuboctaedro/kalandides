@@ -1,0 +1,35 @@
+Title: Ce qui façonne ma manière de travailler
+
+----
+
+Parts:
+
+-
+  heading: 'Mon parcours'
+  text: '<p>Je suis coach formé et médiateur de conflits, et je travaille avec des personnes sur des questions personnelles et professionnelles, en particulier dans des périodes de changement et de prise de décision. Tout au long de ma vie professionnelle, j’ai occupé des fonctions où le travail étroit avec les personnes est central – direction d’équipes, soutien de collègues, ainsi qu’enseignement et accompagnement de jeunes adultes dans des contextes éducatifs.</p><p>J’ai vécu et travaillé dans différents pays et cultures, ce qui m’a donné un sens concret de la diversité des réalités de vie, des normes et des attentes. Je m’appuie sur cette expérience internationale lorsque j’accompagne des personnes issues d’horizons variés.</p><p>En plus de ma formation en coaching et en médiation, je suis titulaire d’un doctorat (PhD) en géographie humaine. Actuellement, j’occupe une fonction de responsabilité à la New York University Berlin, où je continue à accompagner des étudiant·e·s et à soutenir des membres du personnel.</p><p>Dans mon travail de coaching, je tisse ensemble ces différentes expériences pour soutenir des personnes qui souhaitent regarder leur situation de plus près, comprendre ce qui est en jeu pour elles et faire des choix qui leur semblent plus cohérents et plus autodéterminés, dans leur vie personnelle comme dans leur vie professionnelle.</p>'
+-
+  heading: 'Sensibilité interculturelle et de genre'
+  text: '<p>Les questions interculturelles apparaissent souvent lorsque l’on vit entre plusieurs cultures, que l’on déménage dans un autre pays ou que l’on travaille dans des contextes internationaux. Dans le coaching, j’accorde de l’attention à la façon dont les normes culturelles influencent la communication, la prise de décision et les attentes dans les relations. Je m’appuie sur mon expérience de vie et de travail dans différents pays pour vous aider à repérer ces schémas et à réfléchir à la manière dont ils influencent ce qui vous semble possible ou difficile dans votre situation actuelle.</p><p>Les normes de genre ont également un impact fort sur la manière dont les personnes sont perçues, sur la façon dont elles se perçoivent elles‑mêmes et sur le sentiment de sécurité ou de légitimité qu’elles éprouvent à agir d’une certaine façon. Dans notre travail, nous pouvons regarder comment les attentes liées au genre et votre propre sentiment d’identité se manifestent dans vos interactions quotidiennes, vos rôles et vos choix. Je propose un espace bienveillant, sans jugement, dans lequel vous pouvez mettre des mots sur votre expérience, questionner des suppositions intériorisées et expérimenter des façons de vivre qui vous paraissent plus cohérentes et plus respectueuses de vous‑même. L’objectif est de vous soutenir dans des choix éclairés, qui soient en accord avec vos valeurs et avec les contextes sociaux dans lesquels vous évoluez.</p>'
+-
+  heading: 'Ma manière de travailler'
+  text: '<p>Je travaille avec une approche systémique, qui s’intéresse à la manière dont les expériences et les décisions des personnes sont façonnées par les contextes, les relations et les structures dont elles font partie. En parallèle, je travaille de façon intégrative, en m’inspirant d’idées et de méthodes issues de différentes traditions lorsque cela est utile, plutôt que de suivre une seule école de pensée de manière stricte.</p><p>Un cadre en quatre dimensions pour le coaching : corps, espace, temps et relations</p><p>Mon approche du coaching s’appuie sur quatre dimensions interreliées de l’expérience humaine : le corps, l’espace, le temps et les relations. Plutôt que de considérer les difficultés comme étant uniquement « dans la tête », cette approche voit les personnes comme incarnées et situées : décisions et actions émergent de l’interaction entre corps, espace, temps et relations.</p><p>Le <em>corps </em>renvoie à l’expérience vécue et incarnée : sensations, mouvement, tensions, énergie et régulation du système nerveux. Ce cadre reconnaît que la pensée n’est pas séparée du corps ; la prise de conscience et le changement commencent souvent par la perception corporelle.</p><p>La dimension de <em>l’espace </em>concerne les environnements dans lesquels les personnes vivent : espaces physiques, sociaux et symboliques. Elle s’intéresse à la manière dont les lieux, les contextes institutionnels et les conditions matérielles influencent les possibilités d’action et de construction de sens.</p><p>La dimension du <em>temps </em>touche à la temporalité vécue et aux trajectoires de vie : rythmes, moments, transitions et contexte historique. L’expérience humaine est toujours en mouvement, et les décisions sont façonnées à la fois par les expériences passées, les contraintes présentes et les futurs possibles que l’on imagine.</p><p>Enfin, les <em>relations </em>mettent l’accent sur la dimension profondément relationnelle de la vie humaine. Cette dimension met en lumière la manière dont les liens avec les autres contribuent à façonner l’identité, la régulation émotionnelle et la capacité d’agir.</p><p>Ces quatre dimensions s’influencent en permanence. Un changement dans l’une d’elles – par exemple dans votre état corporel, votre environnement ou une relation importante – peut modifier la façon dont vous vivez les autres. En coaching, nous utilisons ce cadre pour regarder votre situation sous plusieurs angles, repérer où de petits ajustements sont possibles et trouver des réponses qui soient ajustées à la fois à vous‑même et à vos circonstances.</p><p><br></p>'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

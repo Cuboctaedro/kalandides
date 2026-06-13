@@ -1,0 +1,49 @@
+Title: FAQ
+
+----
+
+Faq:
+
+-
+  question: 'Was ist der Unterschied zwischen Coaching und Therapie?'
+  answer: '<p>Coaching ist ein reflektierender und strukturierter Prozess, der sich auf Ihre aktuelle Situation, Ihre Entscheidungen und die Veränderungen konzentriert, die Sie anstoßen möchten. Therapie setzt in der Regel direkter bei psychischem Leiden, Traumata oder psychischen Erkrankungen an. Coaching ist kein Ersatz für Therapie.</p>'
+-
+  question: 'Ist Coaching dasselbe wie Mentoring?'
+  answer: '<p>Nein. Mentoring bedeutet meist Begleitung durch eine Person mit Erfahrung in einem bestimmten Feld oder einer bestimmten Rolle. Coaching ist weniger beratungsorientiert und unterstützt Sie vielmehr dabei, Ihre Situation zu durchdenken, zu klären, was Ihnen wichtig ist, und einen eigenen Weg nach vorne zu finden.</p>'
+-
+  question: 'Kann Coaching helfen, wenn ich nicht weiß, was ich will?'
+  answer: '<p>Ja. Coaching kann hilfreich sein, wenn Sie sich unsicher fühlen, „feststecken“ oder Ihr nächstes Ziel noch nicht benennen können. Sie müssen nicht mit einem vollständig ausformulierten Anliegen kommen.</p>'
+-
+  question: 'Wie viele Sitzungen sind üblich?'
+  answer: '<p>Es hängt vom Einzelfall ab, aber wir betrachten vier Sitzungen als Minimum. Manche Menschen kommen für wenige Sitzungen zu einer klar umrissenen Fragestellung, andere arbeiten über einen längeren Zeitraum, wenn die Themen komplexer sind oder schon lange bestehen.</p>'
+-
+  question: 'Wie lange dauert eine Sitzung?'
+  answer: '<p>Sitzungen dauern in der Regel zwischen 60 und 120 Minuten. Am häufigsten arbeite ich mit 90‑minütigen Sitzungen.</p>'
+-
+  question: 'Arbeiten Sie online oder nur in Präsenz?'
+  answer: '<p>Beides ist möglich. Online‑Coaching funktioniert gut und bietet Flexibilität, ist aber nicht für alle die bevorzugte Form. Sitzungen in Präsenz sind ebenfalls in Berlin und in Athen möglich.</p>'
+-
+  question: 'Wie bereite ich mich auf eine Coachingsitzung vor?'
+  answer: '<p>Eine aufwendige Vorbereitung ist nicht nötig. Es reicht, wenn Sie mit einem Eindruck davon kommen, was Sie im Moment besonders beschäftigt, verwirrt oder Ihnen wichtig ist. Offenheit und die Bereitschaft, sich selbst zu reflektieren, sind hilfreicher als „perfekt vorbereitete“ Antworten.</p>'
+-
+  question: 'Wie schnell werde ich eine Veränderung bemerken?'
+  answer: '<p>Das ist sehr unterschiedlich. Manche Menschen spüren bereits nach wenigen Sitzungen eine erste Veränderung, besonders wenn sie mit einer klaren Fragestellung kommen. Andere Prozesse brauchen mehr Zeit, vor allem wenn die Situation vielschichtig ist oder schon lange andauert.</p>'
+-
+  question: 'Was passiert in einem ersten Gespräch?'
+  answer: '<p>Wir sprechen darüber, was Sie zum Coaching führt, welche Art von Unterstützung Sie suchen und ob sich eine Zusammenarbeit stimmig für Sie anfühlt. Dieses erste Gespräch ist auch eine Gelegenheit für Sie, Fragen zu stellen.</p>'
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

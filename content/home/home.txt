@@ -1,0 +1,42 @@
+Title: Home
+
+----
+
+Parts:
+
+-
+  heading: 'What I Offer'
+  content: '[{"content":{"text":"<p>I offer coaching that helps you think clearly, decide more confidently, and act in line with your values in the situations that matter most to you. Drawing on experience in leadership, mediation, and intercultural work, I pay close attention to the environments and relationships that shape your decisions.</p><p>Together, we look at what is happening in your life and work, explore options, and identify next steps that feel realistic and meaningful. The process is structured and focused, while leaving space for reflection, doubt, and new perspectives to emerge.</p>"},"id":"04b69073-e78b-4c5d-ac5c-0f40df446658","isHidden":false,"type":"text"}]'
+-
+  heading: 'Who This May Be For'
+  content: '[{"content":{"text":"<ul><li>People going through crisis, change, or uncertainty.</li><li>People who feel lost, overwhelmed, or unsure how to regain direction in everyday life.</li><li>People navigating unemployment, career change, or questions about work.</li><li>People living between cultures or adapting to a new country.</li><li>People who are exploring their sexual and/or gender identity and are looking for a space where these can be voiced and heard openly.</li><li>Young adults looking for orientation in their lives and for future goals.</li></ul>"},"id":"9665b5df-f9b4-4a3c-bc9d-226385ef23f2","isHidden":false,"type":"list"}]'
+-
+  heading: 'My Coaching Philosophy'
+  content: '[{"content":{"text":"<p>I believe people are capable of meaningful change, and my role as a coach is to create the conditions in which that change can become possible. I bring respect, curiosity, and clarity to each session, recognising that your challenges and decisions are shaped by your lived experience and your relationships.</p><p>My role is to support you in developing deeper insight, acting with intention, and paying attention to the social and professional contexts in which you live. I offer tools and guidance, but you remain the person who shapes your own direction.</p><p></p>"},"id":"3b281b90-ad0c-4d6f-94ae-321aebf0d8ac","isHidden":false,"type":"text"}]'
+-
+  heading: 'Initial Conversation'
+  content: '[{"content":{"text":"<p>If you are considering coaching and would like to explore whether we are a good fit, you are welcome to contact me for an initial conversation. In this first exchange, we look at what brings you to coaching, what kind of support you are seeking, and whether this way of working feels right for you.</p><p>For young adults between 18 and 25, I currently offer a limited number of coaching places free of charge. If this applies to you, you are welcome to mention it when you get in touch.</p><p>You can reach me at <u><a href=\"mailto:dr.ares.k@gmail.com\">dr.ares.k@gmail.com</a></u>&nbsp;</p>"},"id":"e9b22278-10b3-4680-bb6e-111c0549d3a9","isHidden":false,"type":"text"}]'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false
+
+----
+
+Uuid: ytbqnmvneki3rcxr

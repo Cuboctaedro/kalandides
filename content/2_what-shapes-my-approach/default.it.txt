@@ -1,0 +1,35 @@
+Title: Che cosa orienta il mio modo di lavorare
+
+----
+
+Parts:
+
+-
+  heading: 'Il mio percorso'
+  text: '<p>Sono un coach formato e un mediatore di conflitti, e lavoro con le persone su temi personali e professionali, soprattutto in periodi di cambiamento e di decisione. In tutta la mia vita professionale ho ricoperto ruoli in cui il lavoro a stretto contatto con le persone è centrale – direzione di gruppi di lavoro, sostegno a colleghe e colleghi, insegnamento e accompagnamento di giovani adulti in contesti educativi.</p><p>Ho vissuto e lavorato in diversi paesi e contesti culturali, il che mi ha dato un senso concreto di quanto possano variare le realtà di vita, le norme e le aspettative. Mi appoggio a questa esperienza internazionale quando lavoro con persone provenienti da background differenti.</p><p>Oltre alla formazione in coaching e in mediazione, ho un dottorato in geografia umana. Attualmente ricopro un ruolo di responsabilità presso la New York University Berlin, dove continuo ad accompagnare studenti e studentesse e a sostenere membri dello staff.</p><p>Nel coaching intreccio queste diverse esperienze per sostenere persone che vogliono osservare più da vicino la propria situazione, comprendere che cosa è in gioco per loro e prendere decisioni che risultino più coerenti e più autodeterminate, sia nella vita personale sia in quella professionale.</p>'
+-
+  heading: 'Sensibilità interculturale e di genere'
+  text: '<p>Le questioni interculturali emergono spesso quando si vive tra culture diverse, ci si trasferisce in un altro paese o si lavora in contesti internazionali. Nel coaching presto attenzione a come le norme culturali plasmano la comunicazione, il modo di prendere decisioni e le aspettative nelle relazioni. Mi baso sulla mia esperienza di vita e di lavoro in paesi diversi per aiutarla a riconoscere questi schemi e a riflettere su come influenzino ciò che le sembra possibile o difficile nella situazione attuale.</p><p>Anche le norme di genere hanno un impatto forte su come le persone vengono viste, su come vedono se stesse e su quanto si sentono sicure o legittimate ad agire in un certo modo. Nel nostro lavoro possiamo guardare a come le aspettative legate al genere e il suo senso di identità emergono nelle interazioni quotidiane, nei ruoli che ricopre e nelle scelte che compie. Offro uno spazio accogliente, non giudicante, in cui può dare voce alla sua esperienza, mettere in discussione assunzioni interiorizzate e sperimentare modi di vivere che le sembrino più coerenti e più rispettosi di sé. L’obiettivo è sostenerla nel prendere decisioni informate, in sintonia con i suoi valori e con i contesti sociali in cui si muove.</p>'
+-
+  heading: 'Come lavoro'
+  text: '<p>Lavoro con un approccio sistemico, che guarda a come le esperienze e le decisioni delle persone sono influenzate dai contesti, dalle relazioni e dalle strutture di cui fanno parte. Allo stesso tempo lavoro in modo integrativo, attingendo – quando è utile – a idee e metodi provenienti da tradizioni diverse, invece di seguire rigidamente una sola scuola di pensiero.</p><p>Un quadro in quattro dimensioni per il coaching: corpo, spazio, tempo e relazioni</p><p>Nel mio lavoro di coaching considero quattro dimensioni interconnesse dell’esperienza umana: il corpo, lo spazio, il tempo e le relazioni. Invece di vedere le difficoltà solo come qualcosa “nella testa”, considero le persone come incarnate e situate in contesti concreti: decisioni e azioni nascono dall’interazione tra corpo, spazio, tempo e relazioni.</p><p>Il <em>corpo </em>riguarda l’esperienza vissuta e incarnata: sensazioni, movimento, tensione, energia e regolazione del sistema nervoso. In questo quadro, il pensiero non è separato dal corpo; consapevolezza e cambiamento spesso iniziano dalla percezione corporea.</p><p>La dimensione dello <em>spazio </em>riguarda gli ambienti in cui le persone vivono: spazi fisici, sociali e simbolici. Ci interessa come i luoghi, i contesti istituzionali e le condizioni materiali influenzano le possibilità di azione e di attribuzione di significato.</p><p>La dimensione del <em>tempo </em>riguarda la temporalità vissuta e le traiettorie di vita: ritmi, tempi, transizioni e contesto storico. L’esperienza umana è sempre in movimento e le decisioni sono plasmate dalle esperienze passate, dalle condizioni presenti e dai futuri possibili che si immaginano.</p><p>Infine, le <em>relazioni </em>mettono in luce il carattere profondamente relazionale della vita umana. Questa dimensione mostra come i legami con gli altri contribuiscono a formare l’identità, la regolazione emotiva e la capacità di agire.</p><p>Queste quattro dimensioni si influenzano continuamente a vicenda. Un cambiamento in una di esse – ad esempio nel suo stato corporeo, nel suo ambiente o in una relazione importante – può modificare il modo in cui vive le altre. Nel coaching utilizziamo questo quadro per guardare alla sua situazione da più angolazioni, individuare piccoli ma significativi punti di leva e trovare risposte che siano adeguate sia a lei come persona sia alle condizioni nelle quali vive.</p>'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

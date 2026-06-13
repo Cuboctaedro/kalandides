@@ -1,0 +1,48 @@
+title: Site
+
+columns:
+  - width: 1/1
+    fields:
+      subtitle:
+        type: text
+        label: Site Subtitle
+      description:
+        type: textarea
+        label: Site Description
+
+  - width: 1/2
+    sections:
+      posts:
+        extends: sections/posts
+        label: Posts
+        status: listed
+
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        create: default
+        layout: table
+        columns:
+          title:
+            label: Title
+          status:
+            label: Status
+        templates:
+          - home
+          - default
+          - faq
+          - contact
+          - blog
+
+  - width: 1/2
+    fields:
+      mainMenu:
+        type: pages
+        label: Main menu pages
+
+  - width: 1/2
+    fields:
+      footerMenu:
+        type: pages
+        label: Footer menu pages

@@ -1,0 +1,45 @@
+Title: Is This Coaching For You?
+
+----
+
+Parts:
+
+-
+  heading: 'Who I Work With'
+  text: '<p>Coaching with me may be useful if, for example:</p><ul><li><p>You are dealing with challenges in everyday life or at work and want support in seeing the situation more clearly and deciding how to respond.</p></li><li><p>You feel lost, stuck, or unable to organise your next steps and would like help in regaining a sense of direction.</p></li><li><p>You are facing personal decisions and would like a space to reflect on what matters to you before you choose a direction.</p></li><li><p>You are navigating unemployment, a change of role, or a possible shift in professional path.</p></li><li><p>You want to relate differently to pressure, emotions, or expectations and are looking for more steadiness in day‑to‑day life.</p></li><li><p>You live between cultures or have relocated and are trying to make sense of different norms, roles, and demands.</p></li><li><p>You are exploring questions around gender or sexual identity and would like a space to understand your experience and consider how you want to live it.</p></li><li><p>You work in academia and are navigating the mix of teaching, research, administration, and institutional culture.</p></li><li><p>You are an entrepreneur – emerging or established – and want to clarify your role, responsibilities, and direction.</p></li><li><p>You hold a senior or executive position and are working with questions of leadership, teamwork, or organisational dynamics.</p></li></ul><p>Coaching in these situations can offer a structured place to think, to name what is at stake for you, and to decide on next steps.</p>'
+-
+  heading: 'Common Challenges I Can Help You With'
+  text: '<ul><li><p>Making sense of a transition such as relocation, a change of role, unemployment, or a shift in life direction.</p></li><li><p>Navigating early adulthood, including choices around study, work, independence, and relationships.</p></li><li><p>Finding ways to communicate more clearly or constructively with colleagues, friends, or family.</p></li><li><p>Negotiating the tension between work demands, personal needs, and relationships.</p></li><li><p>Making decisions when responsibilities are high and there is no obvious “right” answer.</p></li><li><p>Working with self‑doubt, harsh self‑criticism, or recurring patterns that hold you back.</p></li><li><p>Exploring questions of identity and belonging, including around gender, sexuality, or culture.</p></li><li><p>Aligning your daily decisions more closely with your values and with the communities you are part of.</p></li></ul>'
+-
+  heading: 'What to Expect from Coaching'
+  text: '<p>Coaching is a structured conversation in which we focus on your current situation and what you would like to change or understand better. I bring questions, listening, and sometimes small exercises; you bring your experience, concerns, and ideas.</p><p>Together, we try to clarify what matters most to you, explore different ways of looking at your situation, and identify steps you feel ready to take. Between sessions, you apply what we have discussed and we use the next meeting to reflect on what you noticed and what this suggests for your next steps.</p>'
+-
+  heading: 'How It Works'
+  text: '<p>In an initial session, we get to know each other and look at what brings you to coaching. We also discuss your expectations, boundaries, and any practical constraints. At the end of this conversation, we decide together whether working with me feels appropriate for you.</p><p>If we continue, we agree on a rough focus and a rhythm for the sessions. Over time, we review what is changing, what still feels stuck, and whether the coaching is serving you. Sessions can take place online or in person in Berlin and in Athens, depending on what works best.</p>'
+-
+  heading: 'What Coaching Is Not'
+  text: '<p>Coaching is not therapy or clinical treatment. We may touch on past experiences, yet the focus stays on what is happening now and on what you can do in the present.</p><p>Coaching is also generally not advice-giving. I do not tell you what to do or decide for you. Instead, I help you think through your situation, consider options and consequences, and find responses that feel workable and honest for you.</p>'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false
+
+----
+
+Uuid: 8owboir3jcxzkdjj

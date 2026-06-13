@@ -1,0 +1,49 @@
+Title: FAQ
+
+----
+
+Faq:
+
+-
+  question: 'Qual è la differenza tra coaching e terapia?'
+  answer: '<p>Il coaching è un processo riflessivo e strutturato che si concentra sulla sua situazione attuale, sulle sue decisioni e sui cambiamenti che desidera mettere in atto. La terapia di solito lavora in modo più diretto con la sofferenza psichica, i traumi o i disturbi di salute mentale. Il coaching non sostituisce la terapia.</p>'
+-
+  question: 'Il coaching è la stessa cosa del mentoring?'
+  answer: '<p>No. Il mentoring di solito implica l’accompagnamento da parte di una persona con esperienza in un determinato settore o ruolo. Il coaching è meno basato sul consiglio e mira piuttosto ad aiutarla a pensare la sua situazione, chiarire ciò che per lei è importante e trovare una propria via per andare avanti.</p>'
+-
+  question: 'Il coaching può aiutare se non so che cosa voglio?'
+  answer: '<p>Sì. Il coaching può essere utile quando si sente incerta/o, bloccata/o o quando fa fatica a formulare il prossimo passo. Non è necessario arrivare con un obiettivo già completamente definito.</p>'
+-
+  question: 'Quante sessioni sono di solito necessarie?'
+  answer: '<p>Dipende dal caso, ma riteniamo che il minimo sia di quattro sessioni. Alcune persone vengono per poche sessioni attorno a una domanda ben delimitata, altre lavorano per un periodo più lungo quando i temi sono più complessi o di lunga durata.</p>'
+-
+  question: 'Quanto dura una sessione?'
+  answer: '<p>Le sessioni durano di solito tra 60 e 120 minuti. Il formato più frequente è di 90 minuti.</p>'
+-
+  question: 'Lavora online o solo in presenza?'
+  answer: '<p>Entrambe le possibilità esistono. Il coaching online funziona bene e offre flessibilità, anche se non è sempre la forma preferita da tutti. Sono possibili anche incontri in presenza a Berlino e ad Atene.</p>'
+-
+  question: 'Come mi preparo a una sessione di coaching?'
+  answer: '<p>Non è necessaria una preparazione elaborata. È sufficiente arrivare con un’idea di ciò che, in questo momento, le sembra più urgente, confuso o importante. L’apertura e la disponibilità a riflettere sono più utili che avere tutto già perfettamente formulato.</p>'
+-
+  question: 'In quanto tempo noterò una differenza?'
+  answer: '<p>Questo varia da persona a persona. Alcune notano un cambiamento già dopo poche sessioni, soprattutto quando lavorano su una domanda ben definita. Altri percorsi richiedono più tempo, in particolare quando la situazione è complessa o radicata da tempo.</p>'
+-
+  question: 'Che cosa succede nel primo colloquio?'
+  answer: '<p>Parliamo di ciò che la porta al coaching, del tipo di sostegno che sta cercando e valutiamo insieme se una collaborazione può essere adeguata per lei. Questo primo incontro è anche un’occasione per porre domande.</p>'
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

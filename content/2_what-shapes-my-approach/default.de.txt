@@ -1,0 +1,35 @@
+Title: Was meine Arbeitsweise prägt
+
+----
+
+Parts:
+
+-
+  heading: 'Meine Geschichte'
+  text: '<p>Ich bin ausgebildeter Coach und Konfliktmediator und arbeite mit Menschen zu persönlichen und beruflichen Fragen, besonders in Zeiten von Veränderung und Entscheidungsfindung. In meinem gesamten Berufsleben war ich in Rollen tätig, in denen die enge Zusammenarbeit mit Menschen im Mittelpunkt steht – in der Leitung von Teams, in der Unterstützung von Kolleg*innen sowie in der Lehre und Begleitung junger Erwachsener in Bildungskontexten.</p><p>Ich habe in verschiedenen Ländern und Kulturen gelebt und gearbeitet, was mir ein Gespür dafür gegeben hat, wie unterschiedlich Lebensrealitäten, Normen und Erwartungen aussehen können. Auf diese internationale Erfahrung greife ich zurück, wenn ich mit Klient*innen aus verschiedenen Hintergründen arbeite.</p><p>Neben meiner Ausbildung im Coaching und in der Mediation habe ich in Humangeographie promoviert. Zurzeit arbeite ich in einer Leitungsfunktion an der New York University Berlin, wo ich weiterhin Studierende begleite und Mitarbeitende unterstütze.</p><p>Im Coaching verbinde ich diese verschiedenen Erfahrungsstränge, um Menschen zu unterstützen, die ihre Situation genauer betrachten, verstehen möchten, was für sie auf dem Spiel steht, und Entscheidungen treffen wollen, die sich in ihrem persönlichen und beruflichen Leben stimmiger und selbstbestimmter anfühlen.</p>'
+-
+  heading: 'Interkulturelle und Gender‑Sensibilität'
+  text: '<p>Interkulturelle Fragen tauchen häufig auf, wenn Menschen zwischen Kulturen leben, umziehen oder in internationalen Kontexten arbeiten. Im Coaching achte ich darauf, wie kulturelle Normen Kommunikation, Entscheidungsfindung und Erwartungen in Beziehungen prägen. Ich greife dabei auf meine eigene Erfahrung des Lebens und Arbeitens in unterschiedlichen Ländern zurück, um Sie zu unterstützen, solche Muster wahrzunehmen und zu überlegen, wie sie beeinflussen, was sich für Sie möglich oder schwierig anfühlt.</p><p>Auch Geschlechternormen wirken stark darauf, wie Menschen gesehen werden, wie sie sich selbst sehen und wie sicher oder berechtigt sie sich fühlen, auf bestimmte Weise zu handeln. In unserer Zusammenarbeit können wir uns anschauen, wie Erwartungen rund um Geschlecht und Ihre eigene Identität sich in Ihrem Alltag, in Rollen und in Entscheidungen zeigen. Ich biete einen wertschätzenden, nicht verurteilenden Raum, in dem Sie Ihre Erfahrungen aussprechen, verinnerlichte Annahmen hinterfragen und mit Lebensweisen experimentieren können, die sich für Sie stimmiger und selbstrespektvoller anfühlen. Ziel ist es, Sie darin zu unterstützen, informierte Entscheidungen zu treffen, die sowohl zu Ihren Werten als auch zu den sozialen Kontexten passen, in denen Sie sich bewegen.</p>'
+-
+  heading: 'Wie ich arbeite'
+  text: '<p>Ich arbeite mit einer systemischen Haltung, die darauf schaut, wie Erfahrungen und Entscheidungen von Menschen durch die Kontexte, Beziehungen und Strukturen geprägt sind, in denen sie leben. Gleichzeitig arbeite ich integrativ und beziehe – dort, wo es hilfreich ist – Ideen und Methoden aus unterschiedlichen Traditionen ein, statt einer einzigen Schule strikt zu folgen.</p><p><strong>Ein vierdimensionaler Rahmen für Coaching: Körper, Raum, Zeit und Beziehungen</strong></p><p>In meinem Coaching arbeite ich mit vier miteinander verbundenen Dimensionen menschlicher Erfahrung: Körper, Raum, Zeit und Beziehungen. Anstatt Herausforderungen nur als etwas „im Kopf“ zu betrachten, verstehe ich Menschen als leiblich und in konkrete Umfelder eingebettet: Entscheidungen und Handlungen entstehen aus dem Zusammenspiel von Körper, Raum, Zeit und Beziehungen.</p><p>Der <em>Körper </em>steht für gelebte, leibliche Erfahrung: Empfindungen, Bewegung, Spannung, Energie und die Regulation des Nervensystems. In diesem Rahmen gilt: Denken ist nicht vom Körper getrennt – Bewusstheit und Veränderung beginnen oft mit körperlichem Spüren.</p><p>Die Dimension <em>Raum </em>betrifft die Umgebungen, in denen Menschen leben: physische, soziale und symbolische Räume. Hier interessiert, wie Orte, institutionelle Kontexte und materielle Bedingungen Möglichkeiten für Handlung und Sinngebung beeinflussen.</p><p>Die Dimension <em>Zeit </em>bezieht sich auf gelebte Zeitlichkeit und Lebensverläufe: Rhythmen, Timing, Übergänge und historische Kontexte. Menschliche Erfahrung ist immer im Werden, und Entscheidungen werden von früheren Erfahrungen, aktuellen Bedingungen und möglichen zukünftigen Szenarien geprägt.</p><p>Schließlich richten <em>Beziehungen </em>den Blick auf den zutiefst relationalen Charakter menschlichen Lebens. Diese Dimension hebt hervor, wie Verbindungen zu anderen Identität, emotionale Regulation und Handlungsspielräume mitgestalten.</p><p>Diese vier Dimensionen beeinflussen sich fortlaufend gegenseitig. Eine Veränderung in einer von ihnen – etwa in Ihrem körperlichen Zustand, Ihrem Umfeld oder einer wichtigen Beziehung – kann verändern, wie Sie die anderen erleben. Im Coaching nutzen wir diesen Rahmen, um Ihre Situation aus verschiedenen Blickwinkeln zu betrachten, kleine, aber wirksame Ansatzpunkte für Veränderung zu erkennen und Antworten zu finden, die sowohl zu Ihnen als Person als auch zu Ihren aktuellen Lebensumständen passen.</p>'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

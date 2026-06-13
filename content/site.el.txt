@@ -1,0 +1,28 @@
+Title: Αρης Καλαντίδης
+
+----
+
+Subtitle:
+
+Συστημικό & συνθετικό coaching
+
+----
+
+Description:
+
+Δουλεύω με άτομα που βρίσκονται σε φάση αβεβαιότητας, μετάβασης ή εσωτερικού αποπροσανατολισμού και αναζητούν στήριξη για να κατανοήσουν τι τι συμβαίνει στη ζωή τους και με ποιόν τρόπο να προχωρήσουν.
+
+----
+
+Mainmenu:
+
+- 'page://8owboir3jcxzkdjj'
+- 'page://h1bpi04xz0mgxoy1'
+
+----
+
+Footermenu:
+
+- 'page://qdfisehylnodnvok'
+- 'page://mbz22lnr8rseqxum'
+- 'page://vtqenq3txmteehgf'

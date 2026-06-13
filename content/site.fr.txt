@@ -1,0 +1,24 @@
+Title: Ares Kalandides
+
+----
+
+Subtitle: Coach systémique‑intégratif
+
+----
+
+Description: Je travaille avec des personnes qui traversent des phases d’incertitude, de transition ou de désorientation intérieure et qui souhaitent être accompagnées pour mieux comprendre ce qui se passe dans leur vie et comment elles veulent envisager leurs prochains pas.
+
+----
+
+Mainmenu:
+
+- 'page://8owboir3jcxzkdjj'
+- 'page://h1bpi04xz0mgxoy1'
+
+----
+
+Footermenu:
+
+- 'page://qdfisehylnodnvok'
+- 'page://mbz22lnr8rseqxum'
+- 'page://vtqenq3txmteehgf'

@@ -1,0 +1,42 @@
+Title: 
+
+----
+
+Intro: <p>Je travaille avec des personnes qui traversent des phases d’incertitude, de transition ou de désorientation intérieure et qui souhaitent être accompagnées pour mieux comprendre ce qui se passe dans leur vie et comment elles veulent envisager leurs prochains pas.</p>
+
+----
+
+Parts:
+
+-
+  heading: 'Ce que je propose'
+  text: '<p>Je propose un accompagnement en coaching qui vous aide à clarifier vos idées, à prendre des décisions avec plus de confiance et à agir en accord avec vos valeurs, en particulier dans les situations qui ont une importance particulière pour vous. Je m’appuie sur une expérience en fonctions de responsabilité, en médiation et dans le travail interculturel, et j’accorde une attention particulière aux contextes et aux relations dans lesquels vos décisions prennent forme.</p><p>Ensemble, nous regardons ce qui se passe actuellement dans votre vie et dans votre travail, nous explorons différentes possibilités et identifions des prochaines étapes qui vous paraissent à la fois réalistes et porteuses de sens. Le processus est structuré et focalisé, tout en laissant de l’espace pour la réflexion, le doute et l’émergence de nouvelles perspectives.</p>'
+-
+  heading: 'Pour qui cette offre peut‑elle être pertinente'
+  text: '<ul><li><p>Des personnes qui se trouvent dans une période de crise, de changement ou d’incertitude durable.</p></li><li><p>Des personnes qui se sentent perdues, débordées ou désorientées et qui souhaitent retrouver un sens de direction dans leur vie quotidienne.</p></li><li><p>Des personnes confrontées au chômage, à une réorientation professionnelle ou à des questions autour du travail et de leur rôle.</p></li><li><p>Des personnes qui vivent entre plusieurs cultures ou qui s’adaptent à un nouveau pays.</p></li><li><p>Des personnes qui explorent leur identité de genre et/ou leur orientation sexuelle et qui cherchent un espace où celles‑ci peuvent être exprimées et entendues ouvertement.</p></li><li><p>De jeunes adultes qui recherchent des repères pour leur vie et pour leurs projets d’avenir.</p></li></ul>'
+-
+  heading: 'Ma philosophie'
+  text: '<p><em>« Je suis convaincu que les personnes sont capables de changements significatifs et que mon rôle, comme coach, est de créer un espace dans lequel ce changement peut mûrir. À chaque séance, j’apporte du respect, de la curiosité et de la clarté, en gardant à l’esprit que vos défis et vos décisions sont étroitement liés à votre histoire de vie et à vos relations.</em></p><p><em>Mon rôle est de vous soutenir dans le développement d’une compréhension plus profonde de votre situation, dans des actions plus intentionnelles et dans une attention accrue aux contextes sociaux et professionnels dans lesquels vous vivez. Je propose des outils et des repères, mais vous restez la personne qui façonne sa propre direction. »</em></p>'
+-
+  heading: 'Premier entretien'
+  text: '<p>Si vous envisagez un processus de coaching et souhaitez vérifier si une collaboration a du sens pour vous, vous pouvez me contacter pour un premier entretien. Lors de ce premier échange, nous regardons ce qui vous amène au coaching, le type de soutien que vous recherchez et si cette manière de travailler correspond à votre situation et à ce dont vous avez besoin.</p><p>Pour les jeunes adultes entre 18 et 25 ans, je propose actuellement un nombre limité de places de coaching sans frais. Si vous êtes concerné·e, vous pouvez le mentionner dans votre message.</p><p>Vous pouvez me contacter à l’adresse suivante : dr.ares.k@gmail.com&nbsp;&nbsp;</p><p>Dr Ares Kalandides</p><p>Sredzkistr. 57</p><p>10405 Berlin</p>'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

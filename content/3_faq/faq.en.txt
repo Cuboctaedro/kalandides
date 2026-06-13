@@ -1,0 +1,53 @@
+Title: FAQ
+
+----
+
+Faq:
+
+-
+  question: 'What is the difference between coaching and therapy?'
+  answer: '<p>Coaching is a reflective and structured process focused on your present situation, your decisions, and the changes you want to make. Therapy usually works more directly with psychological suffering, trauma, or mental health conditions. Coaching is not a substitute for therapy.</p>'
+-
+  question: 'Is coaching the same as mentoring?'
+  answer: '<p>No. Mentoring usually involves guidance from someone with experience in a particular field or role. Coaching is less about advice and more about helping you think through your situation, clarify what matters to you, and find your own way forward.</p>'
+-
+  question: 'Can coaching help if I do not know what I want?'
+  answer: '<p>Yes. Coaching can be useful when you feel uncertain, stuck, or unable to name your next step. You do not need to arrive with a fully formed goal.</p>'
+-
+  question: 'How many sessions do people usually have?'
+  answer: '<p>It depends on the case, but we consider four sessions to be the minimum. Some people come for a small number of sessions around a specific question, while others work over a longer period when the issues are more complex or ongoing.</p>'
+-
+  question: 'How long is a session?'
+  answer: '<p>Sessions usually last between 60 and 120 minutes. The most common format is 90 minutes.</p>'
+-
+  question: 'Do you work online or only in person?'
+  answer: '<p>Both are possible. Online coaching works well and can offer flexibility, although it is not always the preferred format. In-person sessions are also possible in Berlin and in Athens.</p>'
+-
+  question: 'How do I prepare for a coaching session?'
+  answer: '<p>You do not need to prepare extensively. It is enough to come with a sense of what is pressing, confusing, or important for you at the moment. Openness and willingness to reflect are more useful than having everything already formulated.</p>'
+-
+  question: 'How quickly will I notice a difference?'
+  answer: '<p>This varies. Some people notice a shift after only a few sessions, especially when they are dealing with a clearly defined question. Other processes take longer, particularly when the situation is more layered or longstanding.</p>'
+-
+  question: 'What happens in an initial conversation?'
+  answer: '<p>We speak about what brings you to coaching, what kind of support you are looking for, and whether working together feels appropriate. This first exchange is also a chance for you to ask questions.</p>'
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false
+
+----
+
+Uuid: qdfisehylnodnvok

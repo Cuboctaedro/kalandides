@@ -1,0 +1,11 @@
+.git
+node_modules
+vendor
+dist            # match your build.outDir
+media
+site/accounts
+site/sessions
+site/cache
+.env
+*.log
+.DS_Store
