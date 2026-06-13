@@ -29,7 +29,7 @@ COPY . .
 # Composer deps (drop this line if you skipped stage 1)
 COPY --from=vendor /app/vendor ./vendor
 # Compiled assets — change "dist" to match your Vite build.outDir
-COPY --from=assets /app/dist ./dist
+COPY --from=assets /app/assets ./assets
 
 # Ensure the directories Kirby writes to exist
 RUN mkdir -p content media site/accounts site/sessions site/cache
