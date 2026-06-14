@@ -17,21 +17,10 @@ snippet('header') ?>
 
   <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
 
-    <nav class="col-span-1 lg:order-2 " role="navigation">
-      <div class="sticky top-4  font-sans">
-        <h2 class="uppercase tracking-wider font-bold text-sm mb-2 pb-2 w-full border-b border-gray-300"><?= $page->title()->html() ?><span class="sr-only"> - Page contents</span></h2>
-        <ul>
-          <?php
-          $items = $page->parts()->toStructure();
-          foreach ($items as $item):
-          ?>
-            <li class="mb-2">
-              <a href="#<?= Str::slug($item->heading()->html()) ?>" class="text-slate-900 hover:text-slate-700"><?= $item->heading()->html() ?></a>
-            </li>
-          <?php endforeach ?>
-        </ul>
-      </div>
-    </nav>
+    <div class="col-span-1 lg:order-2 ">
+      <?php snippet('page-menu') ?>
+
+    </div>
 
     <div class="col-span-1 lg:col-span-3 lg:order-1">
       <?php

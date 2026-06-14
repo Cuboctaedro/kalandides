@@ -15,7 +15,7 @@ tabs:
   content:
     label: Content
     fields:
-      content:
+      text:
         label: Content
         type: writer
         marks:

@@ -24,7 +24,7 @@ snippet('header') ?>
       foreach ($items as $item):
       ?>
         <details class="pb-8 group" <?php e($index === 0, 'open') ?>>
-          <summary class="font-sans text-lg pb-6 group-open:font-bold cursor-pointer block"><?= $item->question()->html() ?></summary>
+          <summary class="font-sans text-lg pb-6 font-bold cursor-pointer block"><?= $item->question()->html() ?></summary>
           <div class="pb-4 generated max-w-2xl lg:w-3/4">
             <?= $item->answer()->kirbytext() ?>
           </div>

@@ -22,7 +22,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
 </head>
 
-<body class="font-serif bg-stone-100 text-stone-800">
+<body class="group/body font-serif bg-stone-100 text-stone-800">
   <?php snippet('skiplink') ?>
 
   <nav class="container relative z-10 mx-auto flex items-start justify-between" role="navigation">
