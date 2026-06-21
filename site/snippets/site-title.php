@@ -9,7 +9,7 @@
 ?>
 
 <?php if ($page->isHomePage()): ?>
-    <div class="flex flex-col items-start bg-stone-100 text-stone-800 group-[.main-menu-open]/body:bg-transparent py-3 px-6 rounded-b-sm">
+    <div class="flex flex-col items-start  text-stone-800 py-3 ">
         <h1 class="text-xl pb-1">
             <?= $site->title()->html(); ?>
         </h1>
@@ -18,7 +18,7 @@
         </span>
     </div>
 <?php else: ?>
-    <a class="flex flex-col items-start bg-stone-100 text-stone-800 py-3 px-6 hover:bg-stone-200 group-[.main-menu-open]/body:bg-transparent transition-colors rounded-b-sm" href="/">
+    <a class="flex flex-col items-start  text-stone-800 py-3 px-6  group-[.main-menu-open]/body:bg-transparent transition-colors rounded-b-sm" href="/">
         <span class="text-xl pb-1">
             <?= $site->title()->html(); ?>
         </span>

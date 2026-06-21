@@ -6,20 +6,21 @@ columns:
   - width: 1/3
     sections:
       drafts:
-        extends: sections/posts
         label: Drafts
+        type: pages
         status: draft
-
-      unlisted:
-        extends: sections/posts
-        label: In Review
-        status: unlisted
+        template: post
+        parent: site.find("blog")
+        empty: No posts yet
+        sortBy: date desc
+        create: post
 
   - width: 2/3
     sections:
       listed:
-        extends: sections/posts
         label: Published
+        type: pages
         status: listed
-        size: small
-        layout: cards
+        template: post
+        parent: site.find("blog")
+        sortBy: date desc

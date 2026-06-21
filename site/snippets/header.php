@@ -25,10 +25,14 @@
 <body class="group/body font-serif bg-stone-100 text-stone-800">
   <?php snippet('skiplink') ?>
 
-  <nav class="container relative z-10 mx-auto flex items-start justify-between" role="navigation">
+  <div class="container relative z-10 mx-auto flex items-center justify-between h-18" role="navigation">
 
-    <?php snippet('main-menu') ?>
+    <header class="relative z-10">
+      <?php snippet('site-title') ?>
+    </header>
 
-  </nav>
+    <?php snippet('double-menu') ?>
+
+  </div>
 
   <main id="main" class="relative z-0" role="main">

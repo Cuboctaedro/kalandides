@@ -20,7 +20,7 @@
                         <?php foreach ($footer_menu as $item):
                         ?>
                             <li class="inline-block pr-4">
-                                <a class="text-slate-900 hover:text-slate-700  uppercase" href="<?= $item->url() ?>"><?= html($item->title()) ?></a>
+                                <a class="text-slate-900 hover:text-slate-700  text-xs font-bold tracking-wider uppercase" href="<?= $item->url() ?>"><?= html($item->title()) ?></a>
                             </li>
                         <?php endforeach; ?>
                     </ul>

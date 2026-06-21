@@ -29,7 +29,7 @@ snippet('header') ?>
       ?>
         <section class="w-full " id="<?= Str::slug($item->heading()->html()) ?>">
           <h2 class="font-sans uppercase tracking-wide font-bold text-lg lg:text-xl mb-4 "><?= $item->heading()->html() ?></h2>
-          <div class="pb-12 generated max-w-2xl lg:w-3/4"><?= $item->text()->kirbytext() ?></div>
+          <div class="pb-12 generated max-w-2xl lg:w-3/4"><?= $item->text() ?></div>
         </section>
       <?php endforeach; ?>
     </div>

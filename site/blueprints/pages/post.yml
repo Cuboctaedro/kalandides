@@ -4,12 +4,8 @@ icon: book
 
 status:
   draft: true
-  unlisted:
-    label: Hidden Page
-    text: The page is not listed in the main menu
   listed:
-    label: Menu Page
-    text: The page is listed in the main menu
+    label: Published
 
 tabs:
   content:
@@ -21,28 +17,31 @@ tabs:
       date:
         label: Publication date
         type: date
-      intro:
-        label: intro
-        type: textarea
-      content:
+      text:
         label: Content
-        type: blocks
-        fieldsets:
-          - text
+        type: writer
+        marks:
+          - bold
+          - italic
+          - link
+          - clear
+        nodes:
+          - paragraph
           - heading
-          - list
-          - image
+          - bulletList
+          - orderedList
+          - horizontalRule
           - quote
 
   meta:
     fields:
-      title:
+      metatitle:
         type: text
         label: Meta Title
-      description:
+      metadescription:
         type: textarea
         label: Meta Description
-      image:
+      metaimage:
         type: files
         label: Meta Image
         multiple: false
@@ -53,7 +52,7 @@ tabs:
           - no
           - yes
         default: false
-      follow:
+      metafollow:
         type: toggle
         label: Add nofollow?
         text:
