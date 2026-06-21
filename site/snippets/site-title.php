@@ -18,7 +18,7 @@
         </span>
     </div>
 <?php else: ?>
-    <a class="flex flex-col items-start  text-stone-800 py-3 px-6  group-[.main-menu-open]/body:bg-transparent transition-colors rounded-b-sm" href="/">
+    <a class="flex flex-col items-start  text-stone-800 py-3 transition-colors" href="/">
         <span class="text-xl pb-1">
             <?= $site->title()->html(); ?>
         </span>
