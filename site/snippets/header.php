@@ -25,7 +25,7 @@
 <body class="group/body font-serif bg-stone-100 text-stone-800">
   <?php snippet('skiplink') ?>
 
-  <div class="container relative z-10 mx-auto flex items-center justify-between h-18" role="navigation">
+  <div class="container relative z-10 mx-auto px-4 flex items-center justify-between h-18" role="navigation">
 
     <header class="relative z-10">
       <?php snippet('site-title') ?>
