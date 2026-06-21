@@ -13,9 +13,12 @@ columns:
   - width: 1/2
     sections:
       posts:
-        extends: sections/posts
         label: Posts
-        status: listed
+        type: pages
+        template: post
+        parent: site.find("blog")
+        sortBy: date desc
+        create: post
 
   - width: 1/2
     sections:

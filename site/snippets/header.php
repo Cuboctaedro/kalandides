@@ -11,7 +11,11 @@
 <html lang="<?= $kirby->languageCode() ?>">
 
 <head>
+  <!-- Start cookieyes banner -->
+  <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/b2f3bcec2323ecd64cf2da6b2dfbab3d/script.js">
 
+  </script>
+  <!-- End cookieyes banner -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 

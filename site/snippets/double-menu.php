@@ -15,8 +15,8 @@
 
     <button class="flex w-8 h-8 items-center justify-center lg:hidden relative z-10 mr-4 lg:mr-0 cursor-pointer" aria-expanded="false" id="menu-toggle">
         <span class="sr-only">Toggle main menu</span>
-        <span class="group-[.main-menu-open]/body:hidden flex w-8 h-8 items-center justify-center'"><?php snippet('icons/burger') ?></span>
-        <span class="group-[.main-menu-open]/body:flex hidden w-8 h-8 items-center justify-center"><?php snippet('icons/close') ?></span>
+        <span class="group-[.main-menu-open]/body:hidden flex w-8 h-8 items-center justify-center text-stone-800"><?php snippet('icons/burger') ?></span>
+        <span class="group-[.main-menu-open]/body:flex hidden w-8 h-8 items-center justify-center text-stone-800"><?php snippet('icons/close') ?></span>
 
     </button>
 
