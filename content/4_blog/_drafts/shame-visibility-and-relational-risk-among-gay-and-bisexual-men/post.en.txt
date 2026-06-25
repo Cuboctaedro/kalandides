@@ -1,0 +1,37 @@
+Title: Shame, visibility, and relational risk among gay and bisexual men
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>In conversations with gay and bisexual men, shame often appears in a particular configuration: less as acute crisis, more as a long-standing background climate. It is connected to questions of visibility—who knows, who might find out, who is allowed to see which parts of their life. Even in contexts where legal and social conditions have improved, earlier experiences of concealment or hostility continue to inform how they assess relational risk.</p>"},"id":"0ed34b56-6f35-4d25-b5d9-f57a4d22f513","isHidden":false,"type":"text"},{"content":{"text":"<p>This shows up in topics that on the surface look unrelated to sexual orientation. A reluctance to bring partners to work events, anxiety about being seen in certain places, hesitation about public affection. When these patterns are examined, they often trace back to earlier episodes of ridicule, rejection, or subtle exclusion. The body remembers the conditions under which it felt unsafe, and adapts accordingly.</p>"},"id":"95ae8106-5db1-44a2-8a38-575907e1b968","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, I try to treat these adaptations with respect. They were, at some point, strategies of survival or protection. The question is whether they still serve the person in their current circumstances, or whether they now restrict forms of intimacy and participation that have become possible. This requires a careful mapping of contexts, rather than a generalised encouragement to “be more open” or “stop hiding.”</p>"},"id":"45ff6712-4a6a-4aa3-945c-f1147100dedb","isHidden":false,"type":"text"},{"content":{"text":"<p>At the same time, it is important not to romanticise visibility. For some gay and bisexual men, especially in certain professional or family environments, increased openness still carries real risks. The work then involves supporting a more conscious and less shame-driven calibration of what to show where. The aim is not maximal disclosure, but agency: to choose, rather than be compelled by fear or external expectations, how visible one wishes to be.</p>"},"id":"359c8702-6b75-4d1b-bba8-638bd688da6b","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: wrkfch4esx2bwpsy

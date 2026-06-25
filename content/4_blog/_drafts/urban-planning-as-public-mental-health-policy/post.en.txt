@@ -1,0 +1,37 @@
+Title: Urban planning as public health policy
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>Across previous pieces on housing, green spaces, walkability, public space, and migration, a pattern becomes clear: decisions about the physical organisation of cities have direct consequences for health in the broad sense of the term. Urban planning is often presented as a technical field concerned with land use, transport, and infrastructure. In practice, it functions as a form of public mental health policy, whether or not it is recognised as such.</p>"},"id":"dd987b46-6004-4c05-9145-8d36b0d78caa","isHidden":false,"type":"text"},{"content":{"text":"<p>Planning decisions determine where people can afford to live, how far they must travel to work or study, and what they encounter on the way. Zoning laws, building regulations, and transport networks shape access to light, air, green space, and quiet. They influence the quality and security of housing, the distribution of noise and pollution, and the availability of places for encounter and play. These are not secondary matters. They contribute to levels of chronic stress, patterns of physical activity, opportunities for rest, and the extent to which people feel they belong to a place.</p>"},"id":"a1430670-3b28-431d-bb47-724179d6c156","isHidden":false,"type":"text"},{"content":{"text":"<p>Transport planning offers a clear example. When cities prioritise private cars, large parts of the urban landscape are given over to roads, parking, and related infrastructure. Distances between key functions increase, pavements become fragmented, and public transport may play a secondary role. The result is more time spent in traffic, higher exposure to noise and air pollution, and fewer opportunities for walking or informal social contact. When walking, cycling, and public transport are taken seriously in planning, different patterns appear: trips can be shorter and more active, and streets can support a wider range of uses and users. These differences enter directly into how bodies age, how lungs function, and how people experience daily life.</p>"},"id":"e4207841-b1e5-44c3-aa3c-1bb705857c4b","isHidden":false,"type":"text"},{"content":{"text":"<p>Housing policy is another area where planning decisions carry mental health implications. Rules around density, minimum standards, social housing, and the location of affordable units determine whether low-income households are concentrated in marginal areas or integrated into mixed neighbourhoods. They affect crowding, privacy, and security of tenure. When planning allows or encourages large numbers of people to live in insecure, overcrowded, or poorly insulated housing, it is effectively producing conditions that foster anxiety, conflict, and chronic fatigue. When it supports stable, adequate housing in areas with services and transport, it creates a foundation for psychological and physical stability.</p>"},"id":"38904685-a1f5-4f03-afa9-9c56b45f9176","isHidden":false,"type":"text"},{"content":{"text":"<p>Public space and green infrastructure policies also function as health measures. The inclusion or omission of parks, trees, playgrounds, and benches in different parts of the city shapes where and how people can recover from stress, move their bodies, and engage in low-cost social activity. The distribution of these elements is rarely random. It reflects power relations, land values, and political priorities. Neighbourhoods with limited political influence often receive fewer investments in such amenities. The health consequences—higher heat exposure, less physical activity, fewer spaces for restoration—are predictable.</p>"},"id":"9234f159-f151-4ab8-bf8d-10e1ef61a9e3","isHidden":false,"type":"text"},{"content":{"text":"<p>Attention to gender, safety, and inclusion in planning decisions has similar effects. Street lighting, sightlines, mixed uses, and the presence of people at different times of day influence whether women, queer people, and other vulnerable groups can use public space without constant vigilance. Designs that take these needs seriously make it easier for them to move, work, and socialise, with consequences for stress and social participation. Designs that ignore them condense risk into particular routes and times, effectively restricting access to the city for significant parts of the population.</p>"},"id":"e202ef68-e4e7-40b5-8bee-b041928d4155","isHidden":false,"type":"text"},{"content":{"text":"<p>Planning decisions also affect migrants and people in exile. The location of reception centres, the availability of affordable housing in established neighbourhoods, the distribution of services, and the ease of navigating public institutions all shape whether newcomers can gradually form attachments and routines. When planning contributes to spatial segregation and concentrates migrants in areas with poor infrastructure and limited services, it reinforces feelings of marginality and instability. When it enables dispersion, access to mixed neighbourhoods, and proximity to schools, health care, and public transport, it supports more sustainable trajectories.</p>"},"id":"e0045033-079d-4949-add7-b95eb3922494","isHidden":false,"type":"text"},{"content":{"text":"<p>Treating urban planning as public mental health policy does not mean that planners should replace clinicians or therapists. It means acknowledging that the built environment establishes the baseline conditions within which individual and collective health efforts operate. Policies on clinics, hospitals, and treatment programmes can only go so far if large parts of the population live in environments that systematically produce stress, isolation, and insecurity. Conversely, well-designed urban environments can reduce the incidence and severity of certain problems before they require clinical intervention.</p>"},"id":"74b9ab36-59d1-4fcc-860b-9922fc6a4d1e","isHidden":false,"type":"text"},{"content":{"text":"<p>This perspective invites a different set of questions in planning debates. Instead of asking only how land can be used most efficiently or how to accommodate projected traffic, one can ask: How will this decision affect sleep, movement, exposure to noise and pollution, and access to supportive relationships? Which groups will benefit and which will bear additional burdens? What kind of everyday life is being made easier, and what kind is being made more difficult? These are health questions, even when they are not labelled as such.</p>"},"id":"eebfcb22-6789-4be5-968a-5f17975cfc5e","isHidden":false,"type":"text"},{"content":{"text":"<p>Recognising urban planning as a form of public mental health policy does not guarantee better decisions, but it changes how responsibility is understood. The mental and physical health of urban residents is not only a matter of personal resilience or access to treatment. It is also an outcome of choices about streets, housing, parks, public transport, and regulation that are taken, revised, or postponed year after year.</p>"},"id":"3c9d283d-30d8-44c1-9ff6-6d22be7a3384","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: ey7suaqahfyu0qvp

@@ -1,0 +1,37 @@
+Title: Coaching across cultures
+
+----
+
+Date: 2026-02-10
+
+----
+
+Body: [{"content":{"text":"<p>Having lived and worked in several countries and speaking multiple languages, I am often asked about my intercultural competence. The question is sometimes presented as if this competence were a catalogue of facts about different cultures.</p>"},"id":"e33e5f45-a954-4f34-a694-61d6d4f57672","isHidden":false,"type":"text"},{"content":{"text":"<p>In my experience, intercultural work relies less on accumulated knowledge and more on a different way of listening. Communication, trust, decision-making, and the expression of emotion are shaped by cultural frameworks that are often implicit. These frameworks remain present in coaching conversations and influence tone, expectations, pace, and the use of silence.</p>"},"id":"e61ddce6-6a01-4105-8c80-355ee857e203","isHidden":false,"type":"text"},{"content":{"text":"<p>My coaching approach is relational and attends to the cultural, historical, and linguistic contexts that clients bring with them. These contexts may be very visible or barely spoken about, yet they affect how people describe their situation and what options they see for themselves.</p>"},"id":"6cd26706-282d-42d0-868a-eb15810fa17b","isHidden":false,"type":"text"},{"content":{"text":"<p>For me, intercultural competence involves staying with ambiguity and difference, asking questions without assumptions, and noticing when something that feels natural to one person carries a different meaning for another. It also involves making room for clients to describe their experience in their own terms.</p>"},"id":"7010d69f-8bae-46dc-923e-06e32a56fb01","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching in a global and diverse environment regularly involves such encounters. Each coaching relationship can be understood as a meeting between different worlds, perspectives, and histories.</p>"},"id":"d7d97571-6a3d-4ec5-b723-4a7b1a967640","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: o8evariz0iczwkqu

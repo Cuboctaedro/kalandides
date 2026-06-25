@@ -58,6 +58,13 @@ tabs:
               - italic
               - clear
 
+  files:
+    sections:
+      gallery:
+        label: Images
+        type: files
+        template: gallery
+
   meta:
     fields:
       title:

@@ -1,0 +1,37 @@
+Title: Shame in learning and change
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>Across my years in higher education and now in coaching, I have come to see shame as a frequent, often invisible companion to learning and change. It appears when people feel that they should already know, already cope, already be a certain kind of person, and find that they do not meet this imagined standard. The moment of recognising a limit or a mistake is then not just informative, it is experienced as exposing.</p>"},"id":"e0ff1ae5-247b-410c-a533-64d64122baa4","isHidden":false,"type":"text"},{"content":{"text":"<p>In teaching, I have seen how quickly curiosity can collapse into shame. A student who does not understand something may avoid asking a question, not because the question is unimportant, but because admitting confusion feels risky. The fear is less about the content and more about what their not-knowing might signal about their competence or worth. Silence in the classroom is often not a lack of thought, but a protective strategy against humiliation.</p>"},"id":"087868fa-58f8-41ba-aa24-88fbc63bbcde","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, similar patterns emerge, though in a more intimate setting. Coachees may hesitate to describe certain behaviours, emotions, or failures because they fear being seen as weak, disorganised, or inadequate. Shame works by narrowing what is sayable. It constrains reflection by making some areas of experience feel off-limits, even to oneself. Important material then remains at the margins, only hinted at, or disguised in more acceptable forms.</p>"},"id":"64abc3c5-cde4-4fa5-a0d2-5f8c00b55d04","isHidden":false,"type":"text"},{"content":{"text":"<p>I try to approach shame not as a pathology but as an indicator. It signals where a person’s standards for themselves are particularly high or rigid, where they feel most exposed to judgement—whether from others or from an internalised audience. When shame appears, the task is not to push through it with more effort or insight, but to understand what ideal is being violated and where that ideal has come from.</p>"},"id":"d063b31a-ea99-4c6e-9d3f-1e139365e62c","isHidden":false,"type":"text"},{"content":{"text":"<p>Practically, this means paying attention to small signs: sudden changes in tone, self-deprecating jokes, quick moves to dismiss one’s own difficulties as “stupid” or “obvious.” These moments often mark the boundary of what feels bearable to examine. Rather than insisting that the coachee move beyond that boundary, I try to acknowledge the discomfort and slow down. Sometimes this involves shifting the focus from “What is wrong with me?” to “What am I afraid this says about me?”</p>"},"id":"5b295326-2f6a-4436-96a6-0893bb3bfcf6","isHidden":false,"type":"text"},{"content":{"text":"<p>My experience in higher education has taught me that shame around learning is widespread yet rarely named. Students and coachees alike often believe that others are progressing without similar doubts or exposures. Bringing this into the open—carefully, without forcing disclosure—can be relieving in itself. It situates their experience within common human patterns rather than treating it as a private defect.</p>"},"id":"e388ad59-0988-4033-9a99-592cec90f95f","isHidden":false,"type":"text"},{"content":{"text":"<p>In this way, working with shame becomes part of supporting learning and change. When the fear of being seen as lacking can be softened, people are more able to look at their actual difficulties with precision rather than defensiveness. The aim is not to eliminate shame entirely, but to reduce its power to shut down inquiry. Coaching and teaching then become spaces where not-knowing, revising, and beginning again are treated as expected elements of growth, rather than as grounds for self-condemnation.</p>"},"id":"eca8634c-7dea-4327-874a-1efd7eda3ad0","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: baj9mroeookqbr8d

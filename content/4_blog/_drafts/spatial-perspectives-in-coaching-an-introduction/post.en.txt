@@ -1,0 +1,37 @@
+Title: Spatial perspectives in coaching: an introduction
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>In my coaching work, I return frequently to questions of space. I notice how often people describe their difficulties and possibilities in spatial terms: feeling cornered, having room to breathe, not finding a place, being constantly on display, needing distance. They talk about offices that constrict them, homes that no longer feel like theirs, cities that energise or exhaust them, and online environments that are present almost everywhere and yet do not feel like anywhere in particular. These descriptions are part of how people experience their lives and understand their own agency.</p>"},"id":"a19dd497-5b48-4078-8fb9-17cff6088036","isHidden":false,"type":"text"},{"content":{"text":"<p>Many coaching conversations are, among other things, conversations about space. When someone speaks about a workplace conflict, we often end up mapping who sits where, who has a door, who passes through which corridor, who is always reachable and who can withdraw. When someone feels out of place in a new role or country, the experience is not reducible to thoughts and beliefs; it involves embodied disorientation, unfamiliar rhythms, and a sense that the environment does not yet hold them. When someone struggles with concentration, relationships, or rest, we find ourselves examining the spaces in which they work, meet, move, and sleep, and how these spaces are organised.</p>"},"id":"51ab0b0a-619b-4b5f-ba03-c701496b8b01","isHidden":false,"type":"text"},{"content":{"text":"<p>Before becoming a coach, I spent many years thinking about space as a human geographer. In that context, space was never simply a neutral container in which events unfold. It was understood as lived, produced, contested, remembered, and structured by social relations. I studied how places are formed through everyday practices, how institutional settings stabilise certain patterns of behaviour, how power relations are expressed spatially, and how attachments to environments become part of identity. This background continues to shape how I listen in coaching: I tend to hear, behind individual narratives, the spatial arrangements within which those narratives become possible, difficult, or unsustainable.</p>"},"id":"8fe2373a-b3bc-48fd-9c46-6da1453f6495","isHidden":false,"type":"text"},{"content":{"text":"<p>When I work with the four dimensions I describe in my approach—body, space, time, and relationships—I treat space as a concrete and analytical category. I am interested in how physical environments, social settings, and symbolic geographies interact with bodily states, temporal trajectories, and relational patterns. A change in office layout can alter who speaks to whom and when. A move to a different city can modify a person’s sense of identity and possibility. The reorganisation of domestic space can shift how rest, intimacy, or care are distributed in a household. Spatial questions are therefore part of how decisions and actions take shape.</p>"},"id":"c2d032e0-3e7d-449f-b74e-bc198d2b8bda","isHidden":false,"type":"text"},{"content":{"text":"<p>I also observe that many coachees have an implicit but under-articulated sense of how space affects them. They know that they think better in some rooms than in others, that certain routes through a city calm them while others agitate them, that they behave differently when they are seated at a large table than when they are standing in a corridor. Yet these observations often remain at the level of background intuition. Coaching offers an opportunity to bring them into the foreground, to examine how spatial arrangements support or undermine the kinds of lives people are trying to lead.</p>"},"id":"75d3a215-22c4-4663-9e4c-815facb040a0","isHidden":false,"type":"text"},{"content":{"text":"<p>This series will develop that intuition through five broader lines of thought that have informed my own understanding of space. The first is <strong>phenomenology</strong>, which offers a vocabulary for lived space and for the body as the primary site through which environments are encountered. The second is <strong>humanistic geography</strong>, with its attention to place, attachment, insideness, outsideness, and placelessness. The third concerns <strong>relational and critical approaches to space</strong>, which emphasise that environments are produced through social relations, power, and differential access. The fourth focuses on the entanglement of <strong>time, space, and embodiment</strong>, and on how lived temporality shapes spatial experience and vice versa. The fifth turns to <strong>relationships and intersubjective space</strong>, asking how the space between persons is formed through presence, recognition, and interaction.</p>"},"id":"a52c1933-3877-4846-9bac-5859d36a83fb","isHidden":false,"type":"text"},{"content":{"text":"<p>Taken together, these perspectives provide a more differentiated way of thinking about the situations that people bring into coaching. They make it possible to ask not only what someone thinks or feels, but where they live those thoughts and feelings, how environments organise their possibilities, and in what kinds of spaces change becomes more or less available. That is the broader framework within which the following texts will unfold.</p>"},"id":"3223bc83-1047-46e7-b618-782f3b01e41f","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: h2q28ppvyzzlrdl8

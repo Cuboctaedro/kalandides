@@ -1,0 +1,37 @@
+Title: Working with acculturation stress in coaching #3
+
+----
+
+Date: 2026-05-11
+
+----
+
+Body: [{"content":{"text":"<p>In a previous post, I reflected on how learning new social norms can feel demanding and limiting for coachees with experience of voluntary migration. I would like to stay with this dimension and consider it from another angle.</p>"},"id":"9f8e876b-6bf3-4b24-ad2b-b7ac49f2feaa","isHidden":false,"type":"text"},{"content":{"text":"<p>Coachees in these situations often describe a heightened attentiveness in many social settings. They notice tone, timing, gestures, pauses, and group dynamics in detail. They listen carefully, observe closely, and reflect before acting. This way of engaging with a new environment requires effort and also develops a refined sensitivity to context, strong situational awareness, and a solid capacity to read the room.</p>"},"id":"57faaac4-49d5-4ade-9487-f9153cc87da3","isHidden":false,"type":"text"},{"content":{"text":"<p>I recognise this pattern from my own experience after more than thirty years in Germany. The effort to understand how things work has led me to pay careful attention, read situations more closely, and become more aware of subtle shifts in communication. Over time, this has shaped useful capacities: sensitivity, adaptability, interpersonal intelligence, and an awareness of context.</p>"},"id":"b553ee2e-c370-45c2-8f4d-c45736be01ef","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, this can support an important shift in perspective. When coachees begin to see that their experience has strengthened their perception, awareness, and adaptability, their relationship to themselves often changes. They may grow in confidence, place more trust in what they notice, and draw more consciously on these capacities in professional and social contexts.</p>"},"id":"a9854818-7688-4aab-8d44-cc8a3ad77547","isHidden":false,"type":"text"},{"content":{"text":"<p>Working with acculturation stress, for me, includes creating space for coachees to recognise such strengths. Their sensitivity, awareness, and ability to navigate complex situations can become key resources that support them in building relationships, making decisions, and finding their place in a new environment.</p>"},"id":"f70d639a-6e58-4eeb-9cc9-5e520c61afac","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: efxslhzs77yim1ox

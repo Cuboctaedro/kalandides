@@ -1,0 +1,37 @@
+Title: On the individualisation of structural problems in coaching
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>I increasingly encounter situations in which coaching is invited to address difficulties that are, in substance, structural rather than individual. Organisational dysfunction, unstable working conditions, and contradictory demands are recast as problems of resilience, mindset, or personal effectiveness. The coachee appears as the primary site of intervention, while the systems that generate the difficulty remain largely unexamined.</p>"},"id":"97136a34-5980-4ba3-902e-221e1b2930cc","isHidden":false,"type":"text"},{"content":{"text":"<p>This redistribution of responsibility has consequences. When structurally produced strain is interpreted as an individual shortcoming, the person is positioned as both the source of the problem and the locus of its solution. Coaching then risks becoming a technology of adaptation: a way of helping people function within conditions that may, in important respects, be harmful or untenable. The question of whether those conditions are justified is rarely placed at the centre of the conversation.</p>"},"id":"83f11d10-8197-4d2f-8c1c-99796c08fcbf","isHidden":false,"type":"text"},{"content":{"text":"<p>There is a broader cultural logic at work here. Contemporary discourse on performance and self-optimisation tends to foreground agency while downplaying constraint. The promise is that with sufficient insight, discipline, or the right set of tools, individuals can overcome almost any obstacle. This narrative is attractive, yet it obscures the extent to which many constraints are systemic, institutional, or economic in nature.</p>"},"id":"07e87e97-f231-4ac6-bf59-9cfecad8f4c8","isHidden":false,"type":"text"},{"content":{"text":"<p>For coaching, this creates a methodological and ethical tension. On the one hand, the work focuses on what a person can influence: their responses, interpretations, and choices. On the other, there are clear limits to what can be altered at the level of the individual when the surrounding structure remains unchanged. Ignoring these limits risks reinforcing a sense of failure precisely where the scope for effective action is minimal.</p>"},"id":"844308c5-1c15-4a16-9445-c91f80f2d589","isHidden":false,"type":"text"},{"content":{"text":"<p>I see value in making this tension explicit within coaching conversations. This involves mapping the problem space in such a way that structural and organisational factors are not treated as background noise, but as constitutive elements of the situation. It allows for a more differentiated understanding of where agency can be exercised meaningfully, where collective or organisational responses are required, and where withdrawal or refusal might be legitimate options.</p>"},"id":"9bc8c8d4-ea5c-4908-aaa4-04538a63ad13","isHidden":false,"type":"text"},{"content":{"text":"<p>In this sense, a systems-informed coaching practice does not dissolve the importance of individual agency, but situates it. It resists the pressure to transform every structural difficulty into a private task of adaptation and instead maintains a critical awareness of the conditions under which people are being asked to function.</p>"},"id":"21be4daa-49a0-4326-93d8-c361e692569d","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 3ytfmovzkotehi61

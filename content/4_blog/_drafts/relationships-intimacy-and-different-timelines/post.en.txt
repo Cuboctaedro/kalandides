@@ -1,0 +1,37 @@
+Title: Relationships, intimacy, and different timelines
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>A recurring theme in work with gay and bisexual men is the question of relationships and intimacy. Many have had to develop their romantic and sexual lives along timelines that differ from those assumed by dominant narratives. Early experiences may have been hidden, delayed, or fragmented. Partnerships might not align with expected milestones such as marriage, children, or conventional cohabitation.</p>"},"id":"f05e1ab9-2a4f-49f1-9ffb-6a0f5bfb899b","isHidden":false,"type":"text"},{"content":{"text":"<p>This difference in timing can generate a sense of being out of sync with peers or family members. Some men describe feeling as though they are “starting late,” even when they are, in fact, moving at a pace shaped by their own histories and contexts. Others experience a tension between valuing non-traditional relationship forms and feeling a residual pull toward the security associated with more established models.</p>"},"id":"295bc710-8b8f-41ea-bd27-63294186314d","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, I try to recognise and legitimise these divergent timelines. Rather than measuring their relational life against a standard sequence of events, we look at how their experiences have actually unfolded, and what they want from intimacy now. This may involve exploring patterns of avoidance or repetition, fears of dependency, or difficulties integrating sexual and emotional closeness.</p>"},"id":"946d5892-1a2d-44bf-8474-7c302239dafd","isHidden":false,"type":"text"},{"content":{"text":"<p>My task is not to prescribe a specific relationship model, but to help clarify what kinds of commitments, freedoms, and structures feel possible and desirable at this moment. For some, this leads to re-evaluating what they had assumed about coupledom. For others, it involves acknowledging a wish for stability that they had previously dismissed as conventional. In both cases, the work centres on aligning relational decisions with their own history and current needs, rather than with external narratives about what a “successful” life should look like.</p>"},"id":"46616b79-b22e-47b9-83b0-6c4ce9f826c0","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: xknpzoopkxiu1pcl

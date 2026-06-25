@@ -17,7 +17,15 @@ snippet('header') ?>
   <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
 
     <div class="col-span-1 lg:col-span-3">
-      <div class="pb-12 generated max-w-2xl lg:w-3/4"><?= $page->text() ?></div>
+      <div class="pb-12 generated max-w-2xl lg:w-3/4">
+        <?php foreach ($page->body()->toBlocks() as $block): ?>
+          <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
+            <?php snippet('blocks/' . $block->type(), [
+              'block' => $block->content(),
+            ]) ?>
+          </div>
+        <?php endforeach ?>
+      </div>
     </div>
 
   </div>

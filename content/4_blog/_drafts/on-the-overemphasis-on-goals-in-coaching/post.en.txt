@@ -1,0 +1,37 @@
+Title: On the overemphasis on goals in coaching
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>I have become increasingly sceptical of the central position that goals occupy in many accounts of coaching. The insistence that every coaching process must be organised around clearly defined, measurable outcomes imposes a particular structure on the work, one that does not always correspond to the complexity of lived experience.</p>"},"id":"b557f1a0-745b-4e7c-b843-6cd1d028d9f5","isHidden":false,"type":"text"},{"content":{"text":"<p>The language of goals carries an implicit model of change. It assumes that persons know, or should know, what they want, that these wants can be articulated in advance, and that movement toward them can be planned and monitored. This model aligns well with managerial and performance-oriented environments, yet it leaves less room for forms of change that emerge gradually, or that involve questioning the very aims a person has taken for granted.</p>"},"id":"e787a402-550b-480a-a716-fe874011317b","isHidden":false,"type":"text"},{"content":{"text":"<p>In practice, I often encounter coachees whose initial formulations of goals are uncertain, borrowed, or externally imposed. They repeat the vocabulary of their organisations or social environments: being more productive, more confident, more resilient. When such formulations are taken at face value and immediately translated into targets, the coaching process risks reinforcing existing norms rather than opening them to examination.</p>"},"id":"38d93128-137c-4411-8b3b-0445a3e1cf50","isHidden":false,"type":"text"},{"content":{"text":"<p>There is also a methodological consequence. A strong focus on goal-setting tends to narrow the field of attention. Phenomena that do not map neatly onto predefined objectives become marginal. Ambivalence, doubt, and shifts in perspective may be treated as obstacles to progress rather than as signals that something important is at stake. The richness of the coachee’s experience is filtered through the question of whether it contributes to the agreed outcome.</p> <p></p>"},"id":"18e118a8-8b13-4c19-9207-b539b6aa4dca","isHidden":false,"type":"text"},{"content":{"text":"<p>This raises questions about what counts as legitimate work in coaching. If value is tied primarily to the attainment of specified goals, then processes of clarification, deconstruction, or reconsideration may appear secondary, even when they are precisely what is needed. The pressure to demonstrate progress can lead to a premature stabilization of aims, foreclosing the possibility that the coachee might revise what they are striving for.</p>"},"id":"2b55d93f-f6b7-4c31-9e39-bd83029569a1","isHidden":false,"type":"text"},{"content":{"text":"<p>I do not consider goals irrelevant. They can be useful as provisional reference points, as hypotheses about direction rather than fixed destinations. The difficulty arises when they become the organising principle around which all other aspects of the process must be aligned. In such cases, coaching risks becoming an instrument for more efficient pursuit of potentially unexamined objectives, rather than a space in which those objectives themselves can be interrogated.</p>"},"id":"66fc010c-0b9d-4313-bf10-fdcd5ece0111","isHidden":false,"type":"text"},{"content":{"text":"<p>In my own practice, I therefore try to hold goals lightly. I am interested not only in what someone wants to achieve, but in how those wants have been formed, what they are responding to, and what alternative orientations might become thinkable. This shift repositions coaching less as a technology of goal attainment and more as a context for reflective engagement with the frameworks that shape a person’s sense of direction.</p>"},"id":"c7b21e08-2fa2-4bb4-ad6c-5d0e1873ecee","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: eotlaquopmizcppy

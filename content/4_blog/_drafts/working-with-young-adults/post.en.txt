@@ -1,0 +1,37 @@
+Title: Working with young adults #1
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>I experience working with young adults as one of the most generative parts of my practice. The 18–25 age range is marked by transitions that are both structurally significant and internally diffuse: choices about study, work, relationships, identity, and location are often made under conditions of uncertainty and incomplete information. I recognise many of these dynamics from my decades in higher education, yet coaching allows me to engage with them in a different, more individually focused way.</p>"},"id":"69882918-2086-4bf4-a7bc-d29c0b10cfb4","isHidden":false,"type":"text"},{"content":{"text":"<p>My teaching experience has given me a long view on how young adults think, hesitate, experiment, and revise their paths. I have seen several generations move through similar developmental questions in very different social and technological landscapes. This perspective helps me distinguish between what is specific to a particular historical moment and what belongs to recurring patterns of early adulthood. It also supports a certain patience: I am less inclined to treat indecision or change of direction as failure, and more as part of a longer process of orientation.</p>"},"id":"dfd34e03-34ff-4db2-aa9b-f90d6aa1da38","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching with young adults benefits from this background in at least two ways. First, I am used to listening to their forms of speech, their references, and their hesitations without pathologising them. I recognise how seriousness and play, ambition and doubt, can coexist in unstable configurations. Second, I understand the institutional environments they often inhabit—universities, early-career workplaces, training programmes—and the explicit and implicit demands these contexts impose.</p>"},"id":"5cf2eaca-8c27-4f8a-8153-8eaf22afed35","isHidden":false,"type":"text"},{"content":{"text":"<p>What I value in this work is the possibility of creating a space that is not primarily evaluative. In educational settings, young adults are frequently assessed, graded, and compared. Coaching offers a different kind of interaction, one in which their questions do not have to converge on a single correct answer. My role is less to provide direction and more to support the development of their own criteria for what a viable and meaningful next step might look like.</p>"},"id":"98e32503-7f0e-45ad-98c1-de03b0df61fe","isHidden":false,"type":"text"},{"content":{"text":"<p>Over time, I have found that young adults respond well to this combination of experience and openness. They seem to register that I have seen many versions of the paths they are considering, without assuming that I know in advance which one is right for them. This allows for conversations that can hold both the weight of long-term consequences and the experimental character of this phase of life. It is in this intersection—between teaching and coaching, between structure and exploration—that I find the work with young adults particularly rewarding.</p>"},"id":"5d317c82-1735-4de2-bcef-66ba394d75c9","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: ra6p0fgt462vgc9s

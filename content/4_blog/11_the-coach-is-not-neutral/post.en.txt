@@ -1,0 +1,37 @@
+Title: The coach is not neutral
+
+----
+
+Date: 2026-04-10
+
+----
+
+Body: [{"content":{"text":"<p>In coaching conversations, it is common to say that the coach is there to support rather than to judge. I share the intention behind this statement and also see its limits.</p>"},"id":"daf199db-f9ff-4e66-a6fc-ef1ffcacddf1","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaches are often described as neutral, objective, or value-free. In practice, coaches are people with their own values, histories, and boundaries, which they bring into every session. When this is not acknowledged, important differences in perspective and power may remain unspoken.</p>"},"id":"a29a7f79-0c59-4add-aa09-c0c239205bf8","isHidden":false,"type":"text"},{"content":{"text":"<p>For me, ethical coaching includes being clear about my own limits. If a prospective client expresses values that fundamentally conflict with mine, particularly views that marginalise others or contribute to harm, I see it as my responsibility to decline the engagement.</p>"},"id":"94c144cf-db31-4822-b5a2-35a56624f624","isHidden":false,"type":"text"},{"content":{"text":"<p>This is one reason why I view an initial chemistry session as more than a practical introduction. It is an opportunity to ask whether trust can develop, whether both sides can challenge and support each other with respect, and whether the space can function in an ethical and relational way.</p>"},"id":"4f6516f0-82c3-4b46-9eea-503bcfc03ec1","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching always takes place within a framework of values. Recognising this helps me work in a more transparent and responsible manner with the people I support.</p>"},"id":"b9806be4-4f29-48ca-94fb-acb48cb052ac","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: l36cloam2i4kymci

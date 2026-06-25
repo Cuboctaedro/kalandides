@@ -1,0 +1,37 @@
+Title: Why write about cities and health in a blog on coaching?
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>Over the past months I have written a series of texts on cities and health: on urban life and wellbeing in general, on housing and psychological stability, on green spaces and restoration, on spaces of encounter and inequality, on walkability, on the sensory climate of noise and light, on children and play, on gender and safety in public space, on migration and belonging, and on urban planning as a form of public mental health policy.<br>[link to cities and health piece]<br>[link to housing and psychological stability piece]<br>[link to green spaces piece]<br>[link to spaces of encounter piece]<br>[link to walkability piece]<br>[link to noise and light piece]<br>[link to children and play piece]<br>[link to gender and safety piece]<br>[link to migration and belonging piece]<br>[link to urban planning piece]</p>"},"id":"c8e58dae-60bd-46b5-8384-9254d9213110","isHidden":false,"type":"text"},{"content":{"text":"<p>At first glance, these topics may seem distant from coaching. They concern streets, housing markets, playgrounds, planning decisions, and patterns of exclusion in public space. Coaching is often described in more individual terms: goals, motivation, strengths, and personal development. For me, the connection between these two domains is straightforward. Before I became a coach, I was trained as an urban planner and worked as a human geographer. I spent many years thinking about how cities are organised and how that organisation shapes everyday life. When I now sit with coachees, I still hear those questions in the background.</p>"},"id":"c925fcc7-1d9d-4a70-be5c-960479047c8b","isHidden":false,"type":"text"},{"content":{"text":"<p>Urban planning and geography taught me to see that wellbeing is not only a matter of internal resources or psychological traits. It is linked to where people live, how far they must travel, what they encounter on the way, whether they have access to quiet, to green spaces, to safe routes, to welcoming public places, to stable housing. These conditions influence sleep, stress, movement, social contact, and the ability to think clearly. Coaching is also concerned with these capacities, even when it uses different language. When someone feels depleted, stuck, or constantly under pressure, their environment is part of the picture.</p>"},"id":"648c66cb-c22f-4673-b3f5-5e4f8ed340db","isHidden":false,"type":"text"},{"content":{"text":"<p>There is another, more conceptual reason for writing about cities and health in this context. I do not understand people as isolated individuals who happen to have some external circumstances. I think of them as always already embedded in systems. These systems include family structures, organisations, economic conditions, but also material structures such as houses, streets, transport networks, and public spaces. Cities are not neutral containers around lives. They are active elements in how lives are lived. They participate in producing stress or relief, isolation or connection, possibility or constriction.</p> <p></p>"},"id":"076d37e4-782f-402c-8c51-db10c948fad1","isHidden":false,"type":"text"},{"content":{"text":"<p>When I work as a coach, I therefore pay attention to systems and structures as well as to inner experience. I am interested in how a person’s difficulties and possibilities are organised by their position within larger arrangements. This involves institutional systems, but also spatial ones. A person living in precarious housing in a noisy, poorly connected neighbourhood experiences their own agency differently from someone living in a stable, quiet, well-served area. A young queer person who must calculate their safety in public space inhabits the city differently from someone who moves without such concerns. These differences matter when we talk about what is realistic, what is changeable, and what it means to take care of oneself.</p>"},"id":"e3771b69-aa49-44f3-afd8-726d038da202","isHidden":false,"type":"text"},{"content":{"text":"<p>The series on cities and health is a way of making these connections more visible. It sets out, in a more general form, some of the background against which many coaching conversations take place. It also reflects a conviction that individual work on wellbeing should not obscure the role of collective, structural, and spatial conditions. Coaching can help people navigate their situations more consciously. It cannot, on its own, redesign the city. Yet understanding how urban space participates in health can prevent us from interpreting every difficulty as a private failure and can open questions about what changes are needed beyond the individual.</p>"},"id":"f9aa1e92-1ae1-4a4e-ad7b-48e79ea0c87f","isHidden":false,"type":"text"},{"content":{"text":"<p>Ending the series with this reflection is therefore less about closing a topic and more about marking a link. The texts on cities and health are not an excursion away from coaching. They are an attempt to think more carefully about the environments in which coaching becomes necessary and in which its effects are felt. They underline that when we speak about stress, fatigue, motivation, or belonging, we are also speaking about housing, streets, parks, noise, light, safety, and planning decisions that were made long before any particular coaching conversation began.</p>"},"id":"ce4ed662-8b86-4434-9ab5-2c93700fce7a","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: bplxzm6ttymgvjd4

@@ -1,0 +1,37 @@
+Title: Asking questions
+
+----
+
+Date: 2025-03-24
+
+----
+
+Body: [{"content":{"text":"<p>In my coaching training, I was struck by the role of the question as a tool for exploration rather than as a path toward a specific answer.</p>"},"id":"d0e87e83-bdb2-4b15-a23c-e3ba73b74868","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, we work less with solutions and more with space. Often, that space begins with a well-placed question that is open, respectful, and curious. This reminds me of the Socratic method: the art of asking questions that help surface what is already present, yet not fully articulated.</p>"},"id":"bc88cc0e-237a-4347-a745-01fa09ba3d26","isHidden":false,"type":"text"},{"content":{"text":"<p>In my work as a teacher, mentor, and facilitator, I have long used questions to support learning. In coaching, the intention differs: there is no content to deliver and no insight to provide in advance. The coachee leads, and the question helps create the conditions for new perspectives to emerge.</p>"},"id":"86445953-bee3-486a-9da4-f54311b0bd13","isHidden":false,"type":"text"},{"content":{"text":"<p>I am aware of how demanding this can be. It involves resisting the impulse to offer ideas, trusting the process, and staying with uncertainty.</p>"},"id":"e660ad65-fe7b-44f6-bb2b-97f3b230c98e","isHidden":false,"type":"text"},{"content":{"text":"<p>This is a practice I continue to develop, one question at a time.</p>"},"id":"8ab2b43b-5242-4c67-8e3b-b94bc42ca7a1","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: b56uxkcgg0zyz6ga

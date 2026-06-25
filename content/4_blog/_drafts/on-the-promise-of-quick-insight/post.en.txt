@@ -1,0 +1,37 @@
+Title: On the promise of quick insight
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>I remain cautious of the emphasis on rapid insight that appears frequently in coaching contexts. The idea that a decisive moment of realization can produce immediate and lasting change is appealing, yet it risks misrepresenting the temporal dynamics of how change unfolds.</p>"},"id":"c2cfc9f3-4802-43eb-8c79-a3cc79b19682","isHidden":false,"type":"text"},{"content":{"text":"<p>Insight is often treated as a discrete cognitive event: a shift in understanding that reconfigures perception and action. While such moments can occur, their effects are rarely self-sustaining. Without changes in context, practice, and reinforcement, insight tends to remain episodic. It may alter how a situation is interpreted, without significantly affecting how it is enacted over time.</p>"},"id":"58eddf80-cb71-4e30-a0a2-4883b311ca1a","isHidden":false,"type":"text"},{"content":{"text":"<p>This raises questions about the role that insight is expected to play within coaching. When it becomes the primary indicator of progress, other processes receive less attention. Repetition, gradual adjustment, and the negotiation of constraints are less visible, and therefore less valued. The work risks being oriented toward moments of recognition rather than the conditions that make change viable.</p>"},"id":"a56ba919-9da6-4dad-b7a2-2c12a743e02e","isHidden":false,"type":"text"},{"content":{"text":"<p>There is also a narrative dimension to this emphasis. Breakthroughs are easier to communicate than slow transformations. They fit well within formats that privilege clarity, resolution, and identifiable turning points. This can shape expectations on both sides of the coaching relationship, creating pressure for outcomes that are difficult to produce in a consistent or meaningful way.</p>"},"id":"18a0a694-873d-49fc-80a5-4c586957fc98","isHidden":false,"type":"text"},{"content":{"text":"<p>From a systemic perspective, this orientation appears limited. Change emerges through ongoing interaction between individuals and their environments. It involves feedback processes, temporal delays, and the stabilization of new patterns. Insight may play a role within this, but it does not substitute for it.</p>"},"id":"8e939fe4-3980-403c-8004-4f546ca61112","isHidden":false,"type":"text"},{"content":{"text":"<p>In my own work, I find it more useful to treat insight as one element among others. Its significance lies in how it is integrated into practice, how it is revisited, and how it interacts with the structures within which a person operates. Without this, it risks remaining an isolated event with limited practical consequence.</p>"},"id":"e4c81a32-481d-4e66-8dbb-278440e3c64e","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: ttznb8zjm5bdfqz3

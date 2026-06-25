@@ -1,0 +1,37 @@
+Title: Learning to listen again
+
+----
+
+Date: 2024-11-25
+
+----
+
+Body: [{"content":{"text":"<p>As many of you know, I  recently started a new journey as a systemic coach, which I hope will enrich my work in leadership and in education.</p>"},"id":"8495314b-90dc-42bd-b9c6-2108401af84d","isHidden":false,"type":"text"},{"content":{"text":"<p>One of the first topics we revisited in training was listening. It is a familiar term and a longstanding practice in my professional life, yet it continues to warrant attention and reflection.</p>"},"id":"fd96ae99-0ad5-4be6-b2bf-c1877f679fd3","isHidden":false,"type":"text"},{"content":{"text":"<p>Through my experience as a conflict mediator, I have learned to listen with care and depth and to hold space and be patient and allow silence. In the context of coaching, listening takes on a particular role. It offers a setting in which the other person can hear themselves more clearly. In this sense, listening is central to the work.</p>"},"id":"9324412c-8ddf-4ce0-a33a-c8fc76bfc6c2","isHidden":false,"type":"text"},{"content":{"text":"<p>Returning to this topic has reminded me that some skills remain in development throughout our lives. They require regular revisiting, practice, and refinement.</p>"},"id":"caca7df2-9232-4525-8ef7-38bae14d5d8a","isHidden":false,"type":"text"},{"content":{"text":"<p>I am therefore engaging with listening again, and noticing new aspects in something I had considered familiar.</p>"},"id":"a25a1484-3782-43ec-9416-076cebf67434","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 2ufpvcygzcjdojmg

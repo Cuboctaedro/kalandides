@@ -1,0 +1,37 @@
+Title: Working with gay and bisexual men
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>Over time, working with gay and bisexual men has become a significant part of my coaching practice. I do not approach this as a special category of client, yet I am aware that sexual orientation brings specific histories, vulnerabilities, and resources into the room. These do not replace the more general questions of work, relationships, or identity, but they inflect them in recognisable ways.</p> <p>What stands out is how often questions of self-acceptance have already been worked through at some level, and yet remain unfinished. Many gay and bisexual men I meet have long moved beyond an initial “coming out,” at least in certain contexts, but the internalised norms they grew up with continue to shape how they evaluate themselves. The result is not necessarily overt conflict, but subtle forms of self-surveillance and doubt: about desirability, legitimacy, and belonging.</p> <p>Coaching here is not about “fixing” sexual orientation or about guiding someone toward a particular identity. It is about examining how they are living with the orientation they have, within the social and relational structures they inhabit. This may involve exploring how they navigate visibility and discretion, how they interpret rejection, or how they balance the wish for intimacy with fears of exposure or loss.</p> <p>My task is to provide a space where these questions can appear without being pathologised or turned into simple narratives of acceptance and pride. The experience of being gay or bisexual is not reducible to either stigma or liberation. It is a complex, ongoing negotiation with different audiences—family, peers, colleagues, partners, and oneself. Coaching can support a more precise understanding of where the remaining points of friction lie, and what forms of life feel both possible and sustainable.</p>"},"id":"7377a795-1fed-4c59-8ef8-671ec9d04cb1","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: lwgd49g1rfvx82e4

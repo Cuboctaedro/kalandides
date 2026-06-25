@@ -1,0 +1,37 @@
+Title: Coaching for connection
+
+----
+
+Date: 2025-12-10
+
+----
+
+Body: [{"content":{"text":"<p>In much of the coaching literature, the process is described as a path toward greater self-awareness. In my practice, I also see it as a path toward deeper relationships.</p>"},"id":"c29f47c7-2fba-4c94-bf12-b7b82a09199e","isHidden":false,"type":"text"},{"content":{"text":"<p>My approach assumes that people become who they are through their connections with others. Friendships, family, colleagues, and communities shape how we see ourselves and how we act in the world. This informs the way I listen and the questions I ask in sessions.</p>"},"id":"cb9d69cb-c5c2-49b0-a3e5-199da8004b2d","isHidden":false,"type":"text"},{"content":{"text":"<p>Long-term research, such as the Harvard Study of Adult Development, suggests that the quality of close relationships is a strong predictor of well-being over a lifetime. This perspective shifts attention from individual performance toward the ways people relate, support one another, and build communities.</p>"},"id":"f991550b-de4c-48a0-8257-e19b8cb8bfd7","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, I am interested in how clients participate in their relationships and what kinds of connections they want to strengthen. I aim to support them in showing up more fully with others and in exploring how relational change can accompany personal change.</p>"},"id":"0a2e998b-3288-4585-83eb-6ded4678d6ad","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: sjhdiq9lr1bc15z8

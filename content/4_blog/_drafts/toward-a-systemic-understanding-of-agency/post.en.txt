@@ -1,0 +1,37 @@
+Title: Toward a systemic understanding of agency
+
+----
+
+Date: 2026-08-24
+
+----
+
+Body: [{"content":{"text":"<p>As I continue to work with systems theory, I notice how strongly it challenges the idea of the individual as a self-contained unit of change. It becomes difficult to think of action as something that originates solely within a person, independent of the contexts in which they are embedded.</p>"},"id":"25faf333-680d-45fb-864e-7c3314a73b2d","isHidden":false,"type":"text"},{"content":{"text":"<p>From this perspective, what we call “agency” takes on a different meaning. It does not disappear, but it becomes situated. Each person acts within a network of relationships, constraints, affordances, and expectations that both enable and limit what is possible at any given moment. Agency is exercised within these conditions, not outside of them.</p>"},"id":"cea2eafd-aa35-4917-891a-976db2e7bbc9","isHidden":false,"type":"text"},{"content":{"text":"<p>This has important implications in coaching. A central step is for the coachee to recognize their position within a system: how they are participating in patterns that sustain a situation, and how those patterns are also sustained by factors beyond their direct control. This recognition is not about assigning responsibility in a narrow sense, but about developing a more precise understanding of where influence is possible and where it is not.</p>"},"id":"d7002903-5f49-4fe5-a9bc-ca0250366316","isHidden":false,"type":"text"},{"content":{"text":"<p>Such clarity can be stabilizing. It shifts the focus away from self-blame or unrealistic expectations of control. At the same time, it invites a more careful exploration of leverage points. If change does not depend on a single decisive act, it may emerge through adjustments in how one relates, responds, or interprets within the system.</p>"},"id":"560a363d-cc14-4749-8e38-6666c371d7d2","isHidden":false,"type":"text"},{"content":{"text":"<p>In this sense, systems thinking introduces both limits and possibilities. It sets boundaries to what can be changed through individual effort alone, while also expanding the field of what counts as meaningful action. Even small shifts in attention, communication, or timing can alter how a system evolves.</p>"},"id":"8d997590-93ef-4990-a7f1-f326773b1577","isHidden":false,"type":"text"},{"content":{"text":"<p>What interests me here is how this view can support a more grounded form of agency. One that is neither inflated nor diminished, but attentive to the realities of interdependence that shape everyday life.</p>"},"id":"7e4ff53c-85a6-40c8-a07a-77befc9956e3","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: yzcmj0ghclzh8zxd

@@ -30,6 +30,12 @@ tabs:
           - orderedList
           - horizontalRule
           - quote
+  files:
+    sections:
+      gallery:
+        label: Images
+        type: files
+        template: gallery
 
   meta:
     fields:

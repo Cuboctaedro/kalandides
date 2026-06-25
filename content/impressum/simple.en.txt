@@ -1,0 +1,37 @@
+Title: Impressum
+
+----
+
+Body: [{"content":{"text":"<p>Dr. Ares Kalandides<br>Sredzkistr. 57<br>10405 Berlin</p>"},"id":"0523fc2a-4ac3-461d-aa7a-f778f021e639","isHidden":false,"type":"text"}]
+
+----
+
+Parts:
+
+-
+  heading: ''
+  text: '<p>Dr. Ares Kalandides<br>Sredzkistr. 57<br>10405 Berlin</p>'
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false
+
+----
+
+Poem: 
+
+----
+
+Uuid: ro2wuy7eil5xvlkp

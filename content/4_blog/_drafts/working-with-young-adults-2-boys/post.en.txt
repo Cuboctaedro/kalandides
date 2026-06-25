@@ -1,0 +1,37 @@
+Title: Working with young adults #2: Boys
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>When I work with young men, questions of identity often appear less as clearly formulated topics and more as background tensions. They are negotiating what it means to become an adult man under conditions where older models of masculinity are being questioned, while newer ones are still unstable. This produces a mixture of uncertainty, defensiveness, and genuine curiosity that I recognise from many years of teaching and now encounter with greater depth in coaching.</p>"},"id":"8873a112-bab3-4473-91b1-8508c3313a17","isHidden":false,"type":"text"},{"content":{"text":"<p>In educational settings, I have often seen young men oscillate between overconfidence and withdrawal. They may present a surface of knowingness or irony, while underneath there are unresolved questions about belonging, adequacy, and direction. Coaching provides a setting in which these undercurrents can be addressed more directly. The conversation is not about performance in a course or alignment with an institutional role, but about how they are trying to inhabit a gendered position that feels both expected and unclear.</p>"},"id":"1dd35d7a-5bef-4cf9-9027-d4c8586ee8f7","isHidden":false,"type":"text"},{"content":{"text":"<p>A recurring theme is the difficulty of integrating vulnerability into their self-understanding. Many have received explicit or implicit messages that emotional openness is risky or incompatible with being a “real” man. At the same time, they are exposed to contemporary discourses that emphasise emotional awareness, care, and reflexivity. The result is a kind of double bind: they are asked to be both invulnerable and emotionally literate, independent and relationally attuned. Identity work takes place in the space between these often conflicting demands.</p>"},"id":"87820486-fe12-4057-99c0-ae85a135bbac","isHidden":false,"type":"text"},{"content":{"text":"<p>My long experience in higher education helps me recognise that this tension is not simply an individual struggle but part of a wider generational pattern. I have seen how different cohorts of young men respond to changing expectations around gender, intimacy, and work. This historical perspective allows me to normalise some of their confusion without minimising its impact. It also helps me distinguish between what appears as personal difficulty and what is better understood as a response to shifting social scripts.</p>"},"id":"af70cbdc-beae-49ce-a23b-c4f930102601","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, shared gender plays a particular role here. Some young men seem more willing to articulate their uncertainties about masculinity with an older man who has occupied various professional and relational roles over time. They use me, implicitly, as a reference point for asking what forms of manhood are possible that do not rely on dominance, emotional restriction, or constant self-assertion. My task is not to provide a model to imitate, but to make space for exploration of alternatives that may be less visible in their immediate environment.</p>"},"id":"53cc557d-fa10-4588-8412-2101de4a6479","isHidden":false,"type":"text"},{"content":{"text":"<p>What I find most valuable in this work is the opportunity to slow down the rush toward a fixed identity. Young men often feel pressure to decide quickly who they are, what they stand for, and how they will present themselves. Drawing on my academic and coaching experience, I can support them in treating identity less as a finished product and more as an ongoing, revisable project. This includes legitimising their doubts, examining the gendered expectations they have internalised, and encouraging experiments with ways of being that may initially feel unfamiliar but more aligned with the kinds of men they might want to become.</p>"},"id":"449edcf4-3f76-4771-b06d-a7b48ee6185d","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: yvounecfasipcdir

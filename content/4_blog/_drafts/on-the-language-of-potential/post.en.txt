@@ -1,0 +1,37 @@
+Title: On the language of potential
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>The language of “potential” is pervasive in coaching and adjacent fields. People are invited to “unlock,” “realise,” or “fulfil” their potential, as if there were a latent, quantifiable resource waiting to be activated. The term carries a strong positive charge, yet on closer examination it is often imprecise, normatively loaded, and asymmetrical in how it distributes responsibility.</p>"},"id":"d6c309f5-d949-47e7-a4f2-c4c0223e55cf","isHidden":false,"type":"text"},{"content":{"text":"<p>“Potential” suggests an idealised future state against which the present is implicitly measured. A person is rarely told that they have exactly realised their potential; the concept functions more as an open-ended horizon of possible improvement. This can generate a subtle deficit structure: whatever one has achieved is framed as preliminary, a partial expression of something larger that remains unactualised. The self is positioned as perpetually incomplete.</p>"},"id":"8856bcb8-c7f8-4219-b5f2-497fa7e978e0","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching conversations, this vocabulary can appear benign, even supportive. To speak of someone’s potential seems to affirm their capacities and possibilities. Yet it also introduces an evaluative frame. Who defines what counts as a person’s potential? On what basis are certain trajectories of development privileged over others? Frequently, the answer lies in existing social, organisational, or economic norms: productivity, advancement, visibility, or influence become the implicit metrics of fulfilment.</p>"},"id":"789e12ba-929d-477f-b8dc-c0bf9aa075eb","isHidden":false,"type":"text"},{"content":{"text":"<p>There is a psychological effect to this framing. Coachees may come to experience their current lives less in terms of sufficiency and more in terms of shortfall. The focus shifts from the complexity of their actual situation to the imagined distance between who they are and who they supposedly could or should be. This can generate motivation, but it can equally produce chronic dissatisfaction and self-surveillance, particularly when the criteria of “realising potential” are diffuse or constantly escalating.</p>"},"id":"b3877e8f-2004-4baf-aeaa-a4613bc2f1a8","isHidden":false,"type":"text"},{"content":{"text":"<p>The language of potential also tends to individualise. Structural constraints—material conditions, institutional barriers, social inequalities—move to the background, while the person’s capacity to strive, optimise, and self-transform moves to the foreground. If potential is not realised, the implication is that the individual has failed to activate what was available to them, rather than that the environment has failed to support, recognise, or even permit certain forms of development.</p>"},"id":"590ae751-7051-4897-87a6-200e6736e57c","isHidden":false,"type":"text"},{"content":{"text":"<p>In my practice, I try to approach talk of potential with caution and specificity. When the term appears, I am interested in unpacking it: potential for what, in whose eyes, and within which horizon of value. This often leads to a more concrete and situated discussion of what the coachee finds meaningful, what they feel drawn toward, and what constraints they perceive. The conversation shifts from an abstract imperative to realise potential to a more grounded exploration of possible directions and their costs.</p>"},"id":"088cabed-ca2c-4e63-9fd0-36628570cf54","isHidden":false,"type":"text"},{"content":{"text":"<p>Understood in this way, “potential” becomes less a moral demand and more a descriptive hypothesis about what might become possible under certain conditions. It is then open to revision. The aim is not to chase an imagined maximal version of the self, but to examine which developments are desirable, feasible, and ethically coherent within the person’s actual life. This reframing preserves a sense of possibility while reducing the pressure to conform to an often unexamined ideal of perpetual self-expansion.</p>"},"id":"ccf38006-ab69-48c3-85d5-7969804d9e18","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: atmbdn3gjpmj6uma

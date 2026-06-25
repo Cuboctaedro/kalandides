@@ -1,0 +1,37 @@
+Title: The ethics of coach self-disclosure
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>Over time, I have become more attentive to the ethical questions surrounding self-disclosure in coaching. Making aspects of my own position visible—age, gender, sexual orientation, academic background—is never a neutral act. It shapes the relational field in which the work takes place and influences what coachees feel able or willing to bring into the conversation.</p>"},"id":"eaecd3b5-7342-4818-a2c3-2391ea9689a4","isHidden":false,"type":"text"},{"content":{"text":"<p>For young adults, and for young men in particular, my visibility as an older male coach with a long academic trajectory can have both facilitative and restrictive effects. On one side, it may generate trust: I am read as someone who has inhabited institutions, navigated life stages, and has seen a variety of paths unfold. On the other, it can introduce asymmetries of authority and identification that need to be handled carefully. Self-disclosure can easily drift into self-centering if not monitored.</p>"},"id":"5df2faa0-545b-4c07-a373-220235139668","isHidden":false,"type":"text"},{"content":{"text":"<p>I think of disclosure less as a right and more as a technical intervention. The question is not simply “Am I being authentic?” but “What function does this information serve for the coachee at this moment?” Sometimes a minimal disclosure—acknowledging, for instance, that I am also a man, or that I have spent decades in higher education—helps normalise an experience or clarify why I may be particularly sensitive to certain dynamics. In those moments, the disclosure is in service of the work.</p>"},"id":"5e2b8a3e-236e-4850-8877-07af46faef07","isHidden":false,"type":"text"},{"content":{"text":"<p>The risks are evident when disclosure starts to respond to my own needs: the wish to be liked, to appear relevant, to reduce the discomfort of asymmetry, or to demonstrate understanding through parallel stories. When that happens, the focus subtly shifts away from the coachee’s experience toward mine. Young adults are often finely attuned to this. They may accommodate it, but at the cost of censoring or reshaping their own material to fit what they imagine I can recognise or approve of.</p>"},"id":"858c0e49-8f7f-42ac-8d68-652bf04219b8","isHidden":false,"type":"text"},{"content":{"text":"<p>With young men, the question of disclosure about gender and masculinity is particularly charged. If I present myself too explicitly as “one of them,” I may reinforce existing patterns of male bonding that rely on shared avoidance of vulnerability. If I present myself primarily as a distant expert, I risk replicating hierarchical models they may already find alienating. Calibrating self-disclosure here means signalling enough common ground to make difficult topics speakable, without collapsing critical distance.</p>"},"id":"f5503cc7-4727-4341-9e7d-8d6167294052","isHidden":false,"type":"text"},{"content":{"text":"<p>Other aspects of identity—such as sexual orientation—require a similarly deliberate approach. There are situations in which making this visible can open space for conversations about normativity, stigma, or fear that might otherwise remain unspoken. There are also contexts in which such disclosure could inadvertently shift the coachee’s attention toward managing my perceived vulnerability or difference. The ethical question is not whether to disclose in principle, but whether the anticipated effects align with the coachee’s interests.</p>"},"id":"36408e08-8f3a-4c0d-a71f-382e102b49cb","isHidden":false,"type":"text"},{"content":{"text":"<p>My academic background presents another layer. Naming it can help explain certain features of my style: the conceptual language, the attention to systems, the comfort with abstraction. Yet if overemphasised, it may silence coachees who feel their experiences must be presented in intellectually polished form to be taken seriously. Here too, the ethical task is to use self-disclosure sparingly, to clarify rather than to impress.</p>"},"id":"2859c8f6-4396-4364-a082-3c7a8cabb95a","isHidden":false,"type":"text"},{"content":{"text":"<p>In practice, I try to treat self-disclosure as reversible and minimal. I ask myself: What does the coachee gain if they know this about me, and what do they lose? Could the same relational effect be achieved by other means—for example, by adjusting my way of listening or questioning—without placing my biography into the foreground? When in doubt, I tend to err on the side of saying less, and then observing carefully how any disclosure I do make enters the relational dynamic.</p>"},"id":"f0f89c63-df92-4adb-9cc4-76c99e45b97f","isHidden":false,"type":"text"},{"content":{"text":"<p>Underlying all of this is a simple orientation: coaching is not a shared autobiography project. My experiences, identities, and positions are always present in the room, shaping perception and transferences, but they do not need to be fully spelled out to be operative. Ethical self-disclosure, for me, means intervening in that background only when it clearly enlarges the coachee’s freedom to speak, think, and choose—and being willing to step back again once that purpose has been served.</p>"},"id":"134cfe44-31f7-4bba-b98a-6707e91105a8","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: jhyojgorguij2lvy

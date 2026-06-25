@@ -1,0 +1,37 @@
+Title: On resilience as adaptation
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>The concept of resilience has become almost obligatory in contemporary discourse on work and wellbeing. Individuals are encouraged to become more resilient, to develop the capacity to absorb pressure, recover from setbacks, and maintain performance under adverse conditions. At first glance, this appears uncontroversial. On closer inspection, it raises questions about what, exactly, people are being asked to adapt to.</p>"},"id":"5154598f-4741-421a-b52c-6c8d4902dbeb","isHidden":false,"type":"text"},{"content":{"text":"<p>In many coaching contexts, resilience is framed as an individual property or skill set. The focus rests on coping strategies, cognitive reframing, and emotional regulation. These can be valuable resources. Yet when attention is directed almost exclusively toward the person, structural contributors to distress remain largely unaddressed. Overload, instability, conflicting demands, and a lack of voice are treated as given features of the environment, rather than as modifiable elements.</p>"},"id":"e6a8759c-d62e-400e-b32e-c0c20bbfb74f","isHidden":false,"type":"text"},{"content":{"text":"<p>This framing has a moral dimension. A resilient person is implicitly positioned as responsible, capable, and well-adjusted. A person who struggles may be interpreted as lacking robustness or psychological flexibility. The risk is that systemic strain is converted into an individual deficit. The question shifts from “Are these conditions reasonable?” to “Why can this person not cope more effectively with them?”</p>"},"id":"e63856cb-7ab0-4194-a899-7beac96fc6d0","isHidden":false,"type":"text"},{"content":{"text":"<p>For coaching, this creates a specific risk of collusion. When resilience is taken as an unquestioned good, the work can drift toward helping people endure situations that perhaps should not be endured. Techniques intended to support wellbeing may end up serving as instruments of accommodation to environments that remain unchanged. The language of resilience can thereby obscure the legitimacy of dissatisfaction, refusal, or exit.</p>"},"id":"02a2528f-888c-457d-aebf-5761ddb2ff33","isHidden":false,"type":"text"},{"content":{"text":"<p>This does not imply that the development of coping capacities is irrelevant. The capacity to navigate difficulty matters, and some constraints will not shift in the short term. The issue is one of proportion and orientation. If resilience is conceptualised primarily as adaptation, insufficient attention is given to the possibility of altering, challenging, or leaving the conditions that generate the need for adaptation in the first place.</p>"},"id":"ff82a387-83a5-4093-b589-f53dd7bceaca","isHidden":false,"type":"text"},{"content":{"text":"<p>In my practice, I try to foreground this distinction. When resilience emerges as a <em>theme</em>, I am interested in mapping both the personal and structural dimensions of the situation. This includes asking where adaptation is necessary, where it is optional, and where it may no longer be appropriate. Such an approach treats resilience not as a universal imperative, but as one possible response among others, to be considered in relation to the broader ecology of a person’s life.</p>"},"id":"e9c99d05-74da-48e1-b636-ce5d90f4567b","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: ozkurw78x929twma

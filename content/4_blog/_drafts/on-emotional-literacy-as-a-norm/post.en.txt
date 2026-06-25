@@ -1,0 +1,37 @@
+Title: On emotional literacy as a norm
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>The expectation of emotional literacy has become increasingly prominent in contemporary accounts of psychological health and professional competence. People are encouraged to name, differentiate, and communicate their emotional states with precision, and to do so in real time. This expectation often appears as self-evidently desirable, yet it carries with it a set of norms that are not always made explicit.</p>"},"id":"04d8604b-fb9f-45c2-b1b8-e7357c51afa5","isHidden":false,"type":"text"},{"content":{"text":"<p>Emotional literacy presupposes that experiences can and should be rendered into language, and that such articulation is the primary route to understanding and connection. In practice, affective life is often less orderly. It includes states that are diffuse, contradictory, or only partially available to conscious reflection. When these are measured against an ideal of transparent self-reporting, the result can be a sense of deficiency: not simply feeling badly, but feeling that one is failing to feel and express in the right way.</p>"},"id":"43c8ee62-16d1-4328-8795-86af1f4fc4fb","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, this norm can quietly shape the interaction. The capacity to speak about emotions is taken as an indicator of maturity or readiness for change, while hesitation, silence, or indirect expression may be interpreted as avoidance. The risk is that forms of emotional life that do not lend themselves easily to articulation—embodied states, implicit expectations, habitual tensions—are displaced in favour of what can be narrated.</p>"},"id":"b7a4c3c6-af5b-4c24-afe9-2700712eec3c","isHidden":false,"type":"text"},{"content":{"text":"<p>When I connect this to my work with men, the picture becomes more complex. Many of the men I work with have learned, explicitly or implicitly, that certain emotional expressions are risky, inappropriate, or unintelligible within their social environments. The call for greater emotional literacy then interacts with longstanding norms of masculinity that value control, self-containment, and a limited range of permissible affects. The invitation to “open up” is not received in a neutral space.</p>"},"id":"b482d4be-5018-43fa-8231-df17f98cdc5e","isHidden":false,"type":"text"},{"content":{"text":"<p>In this context, shared gender seems to play a particular role. Some men appear more willing to speak about vulnerability, fear, or shame with another man, perhaps because the interaction remains within the boundaries of a familiar masculine frame. At the same time, I notice a fragility in how masculinity is organised: a sensitivity to perceived weakness, a rapid movement toward defensiveness, and, in some cases, an undercurrent of potential aggression when identity feels challenged. These dynamics shape what can be said and how it can be said.</p>"},"id":"d4ebbfd8-482f-4fef-b57b-9993b75de02b","isHidden":false,"type":"text"},{"content":{"text":"<p>The norm of emotional literacy can, in such situations, become double-edged. On the one hand, it can provide language and permission for experiences that have been excluded from expression. On the other, it can function as an additional demand: to become emotionally articulate without sufficient attention to the conditions that have historically sanctioned or punished such articulation. The coachee may feel caught between incompatible expectations of masculinity and psychological openness.</p>"},"id":"1df29394-3c3c-4260-91f4-e998ce827952","isHidden":false,"type":"text"},{"content":{"text":"<p>In my practice, this leads me to treat emotional literacy not as a universal standard to be met, but as one possible mode of engaging with experience. I am interested in how emotions are communicated indirectly—through posture, timing, metaphor, or shifts in speech—as much as through explicit labelling. With men in particular, I pay attention to the relational and cultural constraints that shape what becomes sayable, and to the latent anxieties that can accompany any movement toward greater disclosure.</p>"},"id":"e68ec402-e44a-4f17-a484-731b9157c293","isHidden":false,"type":"text"},{"content":{"text":"<p>Rather than aiming for full transparency, I see value in working with partial articulations and in respecting the pace at which language can emerge. This includes recognising moments when silence or reticence may be protective, not merely obstructive. In this way, coaching becomes less about training men to conform to an ideal of emotionally fluent subjectivity, and more about exploring how emotional life is already present and negotiated within the specific forms of masculinity they inhabit.</p>"},"id":"0a9ebbe5-25bb-47a8-8b50-81eea3054627","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 2pr5skovhg41p63i

@@ -1,0 +1,29 @@
+Title: Impressum
+
+----
+
+Parts:
+
+-
+  heading: ''
+  text: '<p>Dr. Ares Kalandides<br>Sredzkistr. 57<br>10405 Berlin</p>'
+
+----
+
+Poem: 
+
+----
+
+Description: 
+
+----
+
+Image: []
+
+----
+
+Metaindex: false
+
+----
+
+Follow: false

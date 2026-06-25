@@ -1,0 +1,37 @@
+Title: On the limits of personality frameworks
+
+----
+
+Date: 2026-09-21
+
+----
+
+Body: [{"content":{"text":"<p>I remain sceptical of most personality tests used in coaching, particularly those that sort people into fixed types. They tend to present themselves as tools for self-knowledge, yet often rely on simplified and weakly defined notions of what personality actually is. The confidence with which categories are assigned stands in contrast to the ambiguity of the concept they claim to measure.</p>"},"id":"ed515839-694a-4ae2-870f-54c8dc0ee607","isHidden":false,"type":"text"},{"content":{"text":"<p>At times, these frameworks remind me of signs of the zodiac. They offer descriptions that are easy to recognize oneself in, while leaving little room for scrutiny. Their appeal seems to lie less in their explanatory power and more in their ability to produce a sense of being seen, quickly and with minimal effort.</p>"},"id":"eaa17c7f-fb2d-45a8-a8d8-5e47998071bc","isHidden":false,"type":"text"},{"content":{"text":"<p>What concerns me is how easily these categories become reified. A person is no longer someone who tends to act in certain ways under certain conditions, but someone who <em>is</em> a type. This shift may appear subtle, yet it has consequences. It can narrow the field of possible change and reinforce a static understanding of self.</p><p>Underlying this is a persistent vagueness about personality itself. Is it stable across contexts? Is it shaped by environment, or does it determine how environments are experienced? Many popular tools do not engage seriously with these questions. Instead, they bypass them in favour of usability and immediate resonance.</p><p>In this context, I find the Big Five more workable. It does not claim to define who someone is, nor does it divide people into discrete groups. It describes tendencies along dimensions, which already introduces a degree of nuance. More importantly, it allows for movement, variability, and context.</p><p>For a coachee, traits can be approached as patterns that emerge in interaction with situations, rather than as fixed attributes. This makes it possible to ask more precise questions: where does a tendency become useful, where does it become limiting, and what alternatives might be available in a given context?</p><p>Used in this way, such a framework does not close down inquiry but supports it. It offers a language for noticing without imposing a rigid identity. As coaching depends less on defining the person and more on expanding how they can relate to their own patterns, this distinction matters a lot.</p>"},"id":"6e81ac33-af4c-4514-8d50-41b167648459","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: weh0midlkqj5dsp8

@@ -1,0 +1,37 @@
+Title: Young adults exploring sexual orientation
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>When I work with young adults who are exploring their sexual orientation, the questions often arrive in indirect form. They may present as general confusion about relationships, difficulty with commitment, or discomfort in social situations. Only gradually does it become clear that part of the uncertainty concerns the direction and meaning of their sexual and romantic desire.</p>"},"id":"0ff2dac0-7573-41f2-a9fe-9ad7194ade9a","isHidden":false,"type":"text"},{"content":{"text":"<p>In this age group, the landscape is both more open and more demanding than in previous decades. There is greater public visibility of different orientations and identities, and in some contexts a strong expectation of fluidity and reflexivity. At the same time, family backgrounds, religious frameworks, and local cultures can remain conservative or hostile. Young people then find themselves navigating between contradictory messages: be yourself, but be acceptable; explore, but do not jeopardise belonging.</p>"},"id":"01c47071-caf1-4c39-b642-e211a4c20d6a","isHidden":false,"type":"text"},{"content":{"text":"<p>My role as a coach is not to diagnose or to steer. It is to create a space where they can articulate what they actually observe in themselves—attraction, curiosity, fear, indifference—without having to decide immediately on a label or a course of action. Often, the pressure to define themselves quickly intensifies their anxiety. They may feel that only once they know “what they are” can they move forward, while in practice the process of exploration is part of how that knowledge emerges.</p>"},"id":"2c9f0ef2-9a7a-4229-a9bb-5cf03f321cf7","isHidden":false,"type":"text"},{"content":{"text":"<p>Drawing on my experience in higher education, I am aware that such explorations can unfold over years and with reversals. I have seen former students move through phases of certainty and revision, sometimes returning later with a very different understanding of themselves than they had at 20. This longer view helps me offer young adults a counterweight to the sense that they must settle the question of orientation definitively and at once.</p>"},"id":"c52106e8-d7cc-49b4-8a7e-16a03ab95c48","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching here is about supporting careful attention rather than rapid resolution. It involves asking what contexts feel safe or unsafe, what kinds of fantasies or situations evoke interest or discomfort, which relationships feel possible to imagine and which do not. The aim is not to push toward a particular identity, but to help them notice their own patterns and limits, and to respect the pace at which clarity can develop.</p>"},"id":"04d7eb8a-1f91-4133-bb8e-6dd3a005460d","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 4m53yzsfn7ly9gkg

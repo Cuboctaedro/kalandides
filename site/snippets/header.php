@@ -26,10 +26,10 @@
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
 </head>
 
-<body class="group/body font-serif bg-stone-100 text-stone-800">
+<body class="group/body font-serif bg-stone-100 text-stone-800 flex flex-col items-stretch justify-between min-h-screen">
   <?php snippet('skiplink') ?>
 
-  <div class="container relative z-10 mx-auto px-4 flex items-center justify-between h-18" role="navigation">
+  <div class="container relative z-10 mx-auto px-4 flex items-center justify-between h-18 flex-none" role="navigation">
 
     <header class="relative z-10">
       <?php snippet('site-title') ?>
@@ -39,4 +39,4 @@
 
   </div>
 
-  <main id="main" class="relative z-0" role="main">
+  <main id="main" class="relative z-0 flex-1" role="main">

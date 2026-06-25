@@ -1,0 +1,37 @@
+Title: Working with acculturation stress in coaching #1
+
+----
+
+Date: 2026-04-10
+
+----
+
+Body: [{"content":{"text":"<p>Over the past year, I have worked with coachees who moved from Mediterranean countries to Germany, often with a strong sense of hope and ambition. In many of these conversations, I have seen how demanding adjustment can be, even when it is not named. Because the move was voluntary, some coachees interpret their stress as a personal failing. In my role as a coach, I have come to see acculturation stress as a process that requires recognition and careful attention.</p>"},"id":"69dab82a-8d46-46f0-b9f7-858224ee8b81","isHidden":false,"type":"text"},{"content":{"text":"<p>Acculturation stress refers to the psychological and emotional strain that can arise when people adapt to a new cultural environment. In my practice, it often appears across four interconnected dimensions: learning new social norms and ways of relating, functioning in a different language, navigating unfamiliar institutions such as workplaces or bureaucracies, and reconfiguring one’s sense of identity and belonging.</p>"},"id":"caf6a69c-2404-43ea-9b7f-e0e4b126f764","isHidden":false,"type":"text"},{"content":{"text":"<p>Working with this in coaching involves identifying these different layers, making them explicit, and creating a setting in which coachees can process, describe, and gradually integrate their experience.</p>"},"id":"8ceafa36-071c-40b1-be05-4d71a129bb33","isHidden":false,"type":"text"},{"content":{"text":"<p>In the next posts, I plan to consider each of these four dimensions separately and reflect on what they mean for coaching in concrete terms.</p>"},"id":"d9410a3d-9564-4d59-9044-8fe0702354c2","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: nfluixaswjd8ep8k

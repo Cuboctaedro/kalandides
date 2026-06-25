@@ -6,6 +6,10 @@ Intro: <p>Ich arbeite mit Menschen, die sich in Phasen von Ungewissheit, Überga
 
 ----
 
+Portrait: - 'file://0vn9imtteciptpgh'
+
+----
+
 Parts:
 
 -
@@ -13,13 +17,10 @@ Parts:
   text: '<p>Ich biete Coaching an, das Ihnen hilft, klarer zu denken, zuversichtlicher zu entscheiden und in Einklang mit Ihren Werten zu handeln – besonders in Situationen, die für Sie eine besondere Bedeutung haben. Dabei greife ich auf Erfahrungen in Leitungsfunktionen, Mediation und interkultureller Arbeit zurück und achte genau auf die Kontexte und Beziehungen, in denen Ihre Entscheidungen entstehen.</p><p>Gemeinsam schauen wir darauf, was in Ihrem Leben und in Ihrer Arbeit gerade geschieht, erkunden verschiedene Möglichkeiten und finden nächste Schritte, die sich sowohl realistisch als auch sinnvoll anfühlen. Der Prozess ist strukturiert und fokussiert, lässt aber Raum für Reflexion, Zweifel und das Entstehen neuer Perspektiven.</p>'
 -
   heading: 'Für wen dieses Angebot geeignet sein kann'
-  text: '<ul><li><p>Menschen, die sich in einer Phase von Krise, Veränderung oder anhaltender Unsicherheit befinden.</p></li><li><p>Menschen, die sich verloren, überfordert oder orientierungslos fühlen und einen Weg finden möchten, im Alltag wieder eine Richtung zu spüren.</p></li><li><p>Menschen, die mit Arbeitslosigkeit, einer beruflichen Neuorientierung oder Fragen rund um Arbeit und Rolle umgehen.</p></li><li><p>Menschen, die zwischen verschiedenen Kulturen leben oder sich an ein neues Land anpassen.</p></li><li><p>Menschen, die ihre sexuelle und/oder geschlechtliche Identität erkunden und einen Raum suchen, in dem diese offen ausgesprochen und gehört werden kann.</p></li><li><p>Junge Erwachsene, die Orientierung in ihrem Leben und in ihren zukünftigen Zielen suchen.</p></li></ul>'
--
-  heading: 'Meine Coaching‑Haltung'
-  text: '<p><em>„Ich bin überzeugt, dass Menschen zu bedeutsamer Veränderung fähig sind und dass meine Aufgabe als Coach darin besteht, einen Raum zu schaffen, in dem diese Veränderung reifen kann. In jeder Sitzung bringe ich Respekt, Neugier und Klarheit ein und habe im Blick, dass Ihre Herausforderungen und Entscheidungen eng mit Ihrer Lebensgeschichte und Ihren Beziehungen verbunden sind.</em></p><p><em>Meine Rolle ist es, Sie darin zu unterstützen, ein tieferes Verständnis für Ihre Situation zu entwickeln, bewusster zu handeln und den sozialen und beruflichen Kontexten Aufmerksamkeit zu schenken, in denen Sie leben. Ich biete Werkzeuge und Orientierung an, aber Sie bleiben die Person, die die eigene Richtung bestimmt.“</em></p>'
+  text: '<ul><li><p>Für Menschen, die gerade durch Zeiten von Veränderung, Übergang oder Unsicherheit gehen.</p></li><li><p>Für Menschen, die im Alltag mehr Klarheit und Orientierung finden möchten.</p></li><li><p>Für Menschen, die ihre berufliche Situation neu sortieren, sich verändern wollen oder ihre Rolle in der Arbeit anders gestalten möchten.</p></li><li><p>Für Menschen, die zwischen verschiedenen Kulturen leben oder sich in einem neuen Land einleben.</p></li><li><p>Für Menschen, die ihre sexuelle und/oder geschlechtliche Identität erkunden und einen Raum suchen, in dem sie darüber offen sprechen können.</p></li><li><p>Für junge Erwachsene, die herausfinden möchten, wie sie ihr Leben und ihre nächsten Schritte gestalten wollen.</p></li></ul>'
 -
   heading: Erstgespräch
-  text: '<p>Wenn Sie Coaching in Erwägung ziehen und prüfen möchten, ob eine Zusammenarbeit sinnvoll ist, können Sie sich gerne für ein erstes Gespräch bei mir melden. In diesem ersten Austausch schauen wir, was Sie zum Coaching führt, welche Art von Unterstützung Sie suchen und ob diese Arbeitsweise zu Ihnen und Ihrer Situation passt.</p><p>Für junge Erwachsene im Alter von 18–25 Jahren biete ich derzeit eine begrenzte Anzahl von Coaching‑Plätzen ohne Kosten an.</p><p>Sie können mich unter folgender E‑Mail‑Adresse erreichen: dr.ares.k@gmail.com&nbsp;</p>'
+  text: '<p>Wenn Sie Coaching in Erwägung ziehen und prüfen möchten, ob eine Zusammenarbeit sinnvoll ist, können Sie sich gerne für ein erstes Gespräch bei mir melden. In diesem ersten Austausch schauen wir, was Sie zum Coaching führt, welche Art von Unterstützung Sie suchen und ob diese Arbeitsweise zu Ihnen und Ihrer Situation passt.</p><p>Derzeit biete ich eine begrenzte Anzahl von Coaching-Plätzen kostenlos an, um Menschen zu unterstützen, für die die Kosten im Moment ein Hindernis darstellen würden. Wenn dies für Sie interessant ist, erwähnen Sie es bitte, wenn Sie Kontakt mit mir aufnehmen.</p><p>Sie können mich unter folgender E‑Mail‑Adresse erreichen: dr.ares.k@gmail.com&nbsp;</p>'
 
 ----
 

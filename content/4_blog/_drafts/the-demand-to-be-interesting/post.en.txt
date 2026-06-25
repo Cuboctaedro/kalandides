@@ -1,0 +1,37 @@
+Title: The demand to be interesting
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>With many young adults I meet, I sense a pervasive pressure to be interesting. Not only to live a meaningful life, but to have a distinctive story, a recognisable profile, a narrative that would make sense on a social media biography or in a brief introduction. Being “ordinary” is often experienced less as a neutral description and more as a quiet threat.</p>"},"id":"516bc9e3-05f5-4852-9a33-355ca7b6f3cc","isHidden":false,"type":"text"},{"content":{"text":"<p>This demand shows up in subtle ways. Choices about study, work, travel, and leisure are not only evaluated in terms of fit or satisfaction, but also in terms of how narratable they are. A path can be intellectually or emotionally viable, yet be rejected because it does not seem sufficiently remarkable. The self becomes a kind of ongoing project of presentation, in which experiences are partly selected and interpreted with an imagined audience in mind.</p>"},"id":"2cab7c48-14fe-4c1e-b832-bad0a07f1740","isHidden":false,"type":"text"},{"content":{"text":"<p>Over time, this orientation can be exhausting. The effort to maintain a unique “personal brand” requires constant comparison and self-monitoring. Young adults may feel compelled to differentiate themselves even when they would, in fact, prefer more conventional or quieter options. The fear is not simply of failure, but of invisibility: of having nothing that would mark them out as special or noteworthy in a crowded field of other lives.</p>"},"id":"1f5b86b0-9a86-4da7-b548-d6e435c7c163","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching conversations, this dynamic often appears indirectly. A coachee may describe dissatisfaction with their choices, but on closer examination the dissatisfaction is less about the activity itself and more about how it appears from the outside. Travel becomes less an exploration and more an asset. Volunteering, creative projects, or entrepreneurial attempts risk being evaluated primarily in terms of how they contribute to a coherent, marketable image.</p>"},"id":"e11323a8-f807-469d-ae60-f4c82585a063","isHidden":false,"type":"text"},{"content":{"text":"<p>I see part of the work as making this pressure explicit. Once named, it becomes possible to ask whose gaze is being anticipated, and which criteria are being applied. This can open a space in which young adults consider what they actually want to experience or learn, as distinct from what would look impressive. The question shifts from “Is this interesting enough?” to “Is this livable and meaningful for me, given my capacities and constraints?”</p>"},"id":"47048878-c9b9-4e44-8877-2739bd131276","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching can offer relief from the demand to be interesting by providing a context where ordinariness is not a deficit. In the conversation, there is no requirement to be exceptional, only to be precise about what matters and what does not. This does not abolish the social pressures young adults face, but it introduces an alternative reference point: their own sense of fit and coherence, which may or may not align with the narratives that attract attention.</p>"},"id":"c84aaaa8-baea-4791-a97b-5150ba25302d","isHidden":false,"type":"text"},{"content":{"text":"<p>In this way, the aim is not to reject the wish to stand out, but to place it alongside other wishes: for stability, intimacy, competence, or rest. When these are given equal legitimacy, the demand to be interesting loses some of its grip. Young adults can begin to experiment with lives that might appear unremarkable from a distance, yet are experienced from within as more sustainable and less governed by the imagined expectations of an audience.</p>"},"id":"3c70a787-8876-47f6-8a93-2bda13fa91e9","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: ijfccxntacteevlj

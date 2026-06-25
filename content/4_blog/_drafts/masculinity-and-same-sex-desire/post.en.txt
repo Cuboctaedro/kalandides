@@ -1,0 +1,37 @@
+Title: Masculinity and same-sex desire
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>For many gay and bisexual men, questions about masculinity and desire are closely intertwined. They often find themselves negotiating between different models of manhood: those that emphasise distance from femininity and homosexuality, and those that attempt to integrate same-sex desire into a broader, more flexible understanding of being a man. This negotiation is not purely intellectual; it is felt in the body and in everyday interactions.</p>"},"id":"8913587b-84b6-45ce-9c4e-ee5f396b42b8","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, this can manifest as discomfort with certain forms of expression, uncertainty about how to behave in male groups, or ambivalence toward stereotypically “masculine” or “feminine” traits in themselves and others. Some men worry that embracing their desire openly will undermine their sense of being “properly” masculine. Others feel constrained by gay subcultures that seem to reward only specific presentations of manhood.</p>"},"id":"0f7c12fb-c476-4b15-beca-98dea3b9d645","isHidden":false,"type":"text"},{"content":{"text":"<p>My experience working with men more generally helps here, because I recognise patterns that cut across sexual orientations: fragility around status, fear of dependence, reluctance to show need. At the same time, gay and bisexual men often carry additional layers of scrutiny—from themselves and from others—about how their masculinity is read. They may feel simultaneously too masculine and not masculine enough, depending on the context.</p>"},"id":"12e1f4b3-7b3c-4bac-bdd3-8fef426c697c","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching can provide a space to disentangle these threads. We can examine which aspects of masculinity they wish to retain, which they experience as restrictive, and how their sexuality intersects with these choices. The aim is not to arrive at a new normative ideal of the “healthy gay man,” but to support a more deliberate construction of a way of being male that is livable, relationally workable, and less governed by inherited scripts.</p>"},"id":"e0005c42-85d0-4599-b2e7-46d6633504d5","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: xacbfnzgqjmk2dgh

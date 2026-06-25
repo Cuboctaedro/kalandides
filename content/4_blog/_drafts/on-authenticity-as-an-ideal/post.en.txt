@@ -1,0 +1,37 @@
+Title: On authenticity as an ideal
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>The notion of authenticity occupies a prominent place in contemporary discourse on self-development and coaching. People are encouraged to “be themselves,” to act in ways that are aligned with their “true” identity, and to seek work or relationships that allow this identity to be fully expressed. The appeal of this ideal is evident, yet the concept on which it rests is often insufficiently examined.</p>"},"id":"63e0a40a-31ed-4f9a-8312-8f30855145eb","isHidden":false,"type":"text"},{"content":{"text":"<p>Authenticity presupposes a relatively stable inner core: a self that exists prior to, and somehow outside of, the roles, contexts, and relationships in which a person moves. In practice, however, experience suggests a more contingent and situational picture. Ways of speaking, feeling, and acting vary across domains of life. What appears authentic in one context can feel misaligned in another. The search for a singular, coherent “true self” may therefore impose a standard that is difficult to meet.</p>"},"id":"92ce2b36-cd4b-4ea3-a411-a614f0255c55","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, the ideal of authenticity can become quietly normative. A person may feel obliged not only to function effectively, but to do so in a manner that feels consistently congruent with an internal sense of self. Moments of dissonance—when one’s actions do not align neatly with one’s preferences or values—are quickly interpreted as failures of authenticity. The complexity of navigating conflicting demands, loyalties, and constraints risks being reduced to a problem of not being sufficiently oneself.</p>"},"id":"2acf2a88-dd2f-4860-b3c9-38b764e84ad9","isHidden":false,"type":"text"},{"content":{"text":"<p>There is also a social dimension that is often overlooked. What counts as “authentic” is mediated by cultural expectations and available narratives of identity. Certain forms of expression are more readily recognised as genuine or courageous, while others are discounted or pathologised. Appeals to authenticity can thus function as subtle mechanisms of regulation, rewarding some ways of being and marginalising others under the guise of supporting self-expression.</p>"},"id":"0a5b82a5-4616-454c-a30c-0c0f3f75a62f","isHidden":false,"type":"text"},{"content":{"text":"<p>For coaching practice, this raises important questions. If authenticity is treated as a central objective, there is a danger that the coach inadvertently reinforces the pressure to achieve a consistent and transparent self-presentation. The coachee may feel compelled to resolve tensions and contradictions prematurely, in order to conform to an ideal of inner coherence. Elements of ambivalence, opacity, or strategic self-management—often necessary for moving through complex environments—may be cast as inauthentic rather than recognised as pragmatic.</p>"},"id":"c5297a3e-b959-4031-a522-289953fc4b12","isHidden":false,"type":"text"},{"content":{"text":"<p>I find it more useful to approach authenticity as a local and relational phenomenon rather than as an overarching personal achievement. The focus then shifts from “Am I being my true self?” to more specific questions: “What am I trying to protect or make possible in this situation? Which parts of myself are invited here, and which are constrained?” This orientation allows for a more nuanced engagement with the realities of context, power, and role.</p> <p></p>"},"id":"2ccf145b-6e02-40be-93bb-a82e1d37057c","isHidden":false,"type":"text"},{"content":{"text":"<p>In this sense, the task is less about attaining a final state of authenticity and more about developing sensitivity to when certain forms of self-presentation are experienced as viable, costly, or unsustainable. Coaching can then become a space where the person examines the conditions under which different versions of themselves appear, rather than a site where a singular, authentic essence must be located and continually expressed.</p>"},"id":"de054f28-27a5-4e9a-8aaa-5af0f72c7327","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: xojwkvvbp1ryutxd

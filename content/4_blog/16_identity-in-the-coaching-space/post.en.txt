@@ -1,0 +1,37 @@
+Title: Identity in the coaching space
+
+----
+
+Date: 2026-01-10
+
+----
+
+Body: [{"content":{"text":"<p>My coaching experience has made it clear that identity plays a role in every coaching conversation. It influences how people speak, listen, lead, and how they are perceived by others.</p>"},"id":"705db45b-d655-4a5c-87b7-7a8038736ff5","isHidden":false,"type":"text"},{"content":{"text":"<p>My coaching approach pays particular attention to gender and sexuality. These aspects of identity shape how people move through the world, including what is expected of them, where they feel safe or unsafe, and how freely they can express themselves.</p>"},"id":"0db32e74-9189-48b3-8f7f-34d532d5af1f","isHidden":false,"type":"text"},{"content":{"text":"<p>I work with identity as something embedded in relationships. This involves looking at the roles a person is asked to perform, the forms of recognition or invisibility they encounter, and the ways privilege and marginalisation appear in their personal and professional lives.</p>"},"id":"c5e141ea-8918-477d-9642-79e3885b0a11","isHidden":false,"type":"text"},{"content":{"text":"<p>I draw on my experience as a conflict mediator and educator, and also on my own life, including my gender identity, gender expression, and sexual orientation. These themes show up in concrete ways in relation to self-worth, confidence, belonging, and agency.</p>"},"id":"947cf91d-a836-43a7-b94f-25d2a03d87ef","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, my role is to create a space where such dynamics can be explored with honesty and curiosity, without fear of judgement. I aim to meet the person in front of me with attention to their specific history and the social contexts they navigate.</p>"},"id":"8ae92ac6-7806-49f1-847b-5da06c7d844b","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: nlxqfp7daumhoioe

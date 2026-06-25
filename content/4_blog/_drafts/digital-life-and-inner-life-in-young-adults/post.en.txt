@@ -1,0 +1,37 @@
+Title: Digital life and inner life in young adults
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>When I work with young adults, their digital lives are rarely the presenting topic, yet they are almost always part of the background. Devices, platforms, and constant connectivity shape how they relate to themselves and to others. I do not experience this as a simple story of “too much screen time,” but as a complex environment in which attention, comparison, and identity are continuously negotiated.</p>"},"id":"016426da-7ef5-446d-b604-e159f98f5e49","isHidden":false,"type":"text"},{"content":{"text":"<p>What interests me in coaching is not to make general claims about what digital life should look like, but to inquire into how it is experienced by a particular person. For some, online spaces are sources of connection, creativity, and practical opportunity. For others, or at other times, they become sources of pressure, self-surveillance, and exhaustion. The same practices can feel sustaining one week and depleting the next. Without this specificity, it is easy to slip into abstract judgement.</p>"},"id":"6abb0e95-11b6-4695-b9ba-9e96ed444839","isHidden":false,"type":"text"},{"content":{"text":"<p>A central threshold in the work is whether the young adult themselves perceives a problem. Coaching can only engage meaningfully with digital habits when the person begins to notice that their online life is affecting their inner and social life in ways they find costly: difficulty concentrating, sleep disruption, a sense of constant comparison, or a feeling of being more present in mediated interactions than in face-to-face relationships. Until such recognition appears, any suggestion of change risks being heard as external critique rather than support.</p>"},"id":"1ce411eb-b3c2-479e-9034-93fb1f7597df","isHidden":false,"type":"text"},{"content":{"text":"<p>When this recognition does emerge, the conversation becomes more concrete. We can examine not only how much time is spent online, but in what states of mind, and with which effects afterwards. We can distinguish between different digital activities: passive scrolling, targeted information seeking, messaging, gaming, creative production. Each has its own emotional and cognitive profile. The question is less “How do I reduce this?” and more “What does this particular form of engagement do to me, and is that what I want?”</p>"},"id":"fef8582c-6d4c-4bad-9173-c949eb489dfd","isHidden":false,"type":"text"},{"content":{"text":"<p>I find that young adults often have a finely tuned, if not yet fully articulated, sense of these effects. They notice the subtle shift in mood after certain platforms, the way some interactions leave them energised and others diminished, the difficulty of being alone with themselves without reaching for a device. Coaching provides a context in which these observations can be taken seriously and organised into a clearer picture, without rushing toward total abstinence or idealised balance.</p>"},"id":"a3942ea6-58de-4290-b5ab-b1fb67f8768f","isHidden":false,"type":"text"},{"content":{"text":"<p>My role is not to position myself outside the digital world, but to help them develop a more reflective stance within it. This includes exploring small experiments: altering notification settings, introducing device-free times or spaces, paying attention to the first impulse upon waking or before sleep. The aim is not to produce a perfect regime, but to increase the degree of choice they experience in relation to technologies that are otherwise felt as given.</p>"},"id":"24a7e129-8f17-44d0-bb63-f8bcbe1ab3f6","isHidden":false,"type":"text"},{"content":{"text":"<p>Ultimately, work on digital life is tied to broader questions of how they want to live, relate, and think. When a young adult begins to see the connection between their online patterns and their inner climate, coaching can support them in aligning their digital practices with their own values and priorities, rather than with the default settings of platforms or the habits of their peers. Without that self-recognition, however, any intervention remains superficial. The starting point is their own sense that something in the current arrangement is no longer working for them.</p>"},"id":"81b5bf25-19be-48f3-8b73-f5f85e119352","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: b3ckek3oqg4034fn

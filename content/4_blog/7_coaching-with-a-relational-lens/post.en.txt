@@ -1,0 +1,37 @@
+Title: Coaching with a relational lens
+
+----
+
+Date: 2025-11-10
+
+----
+
+Body: [{"content":{"text":"<p>A central thread in my work, from mediation to mentoring to leadership development, is the view that people live and act within networks of relationships. Decisions, challenges, and moments of change are shaped by families, workplaces, cultural expectations, and past experiences.</p>"},"id":"97c97cfb-ad47-44c6-9140-de7442238bf0","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, I take these contexts seriously. I listen for how a person is connected to others, to places, and to recurring patterns that may be hard to name yet strongly felt. This shapes the questions I ask. I pay attention not only to what someone wants, but also to how this wish relates to their roles, responsibilities, and environment.</p>"},"id":"84c1a3e0-7ec1-4925-86d3-41442631d662","isHidden":false,"type":"text"},{"content":{"text":"<p>This relational lens guides my practice. It helps me see personal change as something that affects and is affected by the broader systems a person moves in.</p>"},"id":"006c6996-10cd-4fce-98b0-7b6dbe31f001","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: sx4wx2szvnwp3vrx

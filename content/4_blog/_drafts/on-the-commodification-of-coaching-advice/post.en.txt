@@ -1,0 +1,37 @@
+Title: On the commodification of coaching advice
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>I find the proliferation of prescriptive coaching advice in online spaces increasingly problematic. Formats such as “three hacks that will change your life” or “ten things you are doing wrong” present themselves as efficient pathways to improvement, yet they rely on a reduction of complex psychological and relational processes into simplified, decontextualized instructions.</p>"},"id":"4f174a7c-7e6a-4a2b-8bb6-08a10c3999a7","isHidden":false,"type":"text"},{"content":{"text":"<p>What is at stake here is not only a question of style, but of epistemology. These forms of advice often operate without a clear theoretical grounding, and with limited reference to empirical research. They circulate as self-evident truths, detached from the conditions under which any given intervention might be meaningful or effective. The authority they claim is rarely examined.</p>"},"id":"4a4e38d6-8f56-4e3c-bc3d-0f81d0a091df","isHidden":false,"type":"text"},{"content":{"text":"<p>From a coaching perspective, this introduces a distortion of the practice. Coaching depends on situated inquiry, on the careful exploration of a person’s context, constraints, and patterns of meaning-making. Generic prescriptions bypass this process. They assume a level of universality that is difficult to justify, given the variability of individual and systemic conditions.</p>"},"id":"a339dee5-d30b-4355-a590-11a4a6da087a","isHidden":false,"type":"text"},{"content":{"text":"<p>There is also a performative dimension to this content. Advice is packaged for visibility, engagement, and rapid consumption. The logic of attention economies shapes not only how coaching is communicated, but increasingly how it is understood. In this environment, complexity becomes a liability, and nuance is displaced by certainty.</p>"},"id":"0b7aecfc-9f03-498b-919a-764d3e80c740","isHidden":false,"type":"text"},{"content":{"text":"<p>I am concerned that this trend undermines the credibility of the field. When coaching is associated with unsupported claims and formulaic solutions, it becomes difficult to distinguish careful, evidence-informed practice from content designed primarily for reach. This has consequences for how the work is perceived, and for the expectations that coachees bring into the process.</p>"},"id":"56ac3719-afc7-4ba6-a8c1-97e9abdad231","isHidden":false,"type":"text"},{"content":{"text":"<p>There is a responsibility here, to resist the pressure to simplify beyond recognition. To remain attentive to the limits of one’s knowledge. And to acknowledge that meaningful change rarely conforms to predefined lists or immediate results.</p>"},"id":"df0d4035-0ee2-46b6-b721-b5ff203fafe8","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: iqh8xgtx9kwocmak

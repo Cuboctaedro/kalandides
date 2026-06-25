@@ -1,0 +1,37 @@
+Title: Migrants, exile, and the feeling of not belonging in urban space
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>In previous reflections on cities, housing, green spaces, walkability, and public space, a recurring theme has been who is able to feel at home in urban environments and who remains at the margins. Migration and exile bring this question into sharp focus. Moving to another country, or even to another city within the same country, alters not only legal status and social networks, but also the most basic spatial experiences: how streets are read, how institutions are navigated, how one’s own body appears in different contexts. These changes have direct consequences for mental and physical health.</p>"},"id":"02845a36-7658-4c49-b698-6253368874f1","isHidden":false,"type":"text"},{"content":{"text":"<p>Arrival in a new place often entails a period of disorientation. The built environment does not yet form a coherent pattern. Public transport, official buildings, shops, and neighbourhoods must be learned from the beginning. This learning is not abstract. It occurs through repeated attempts, mistakes, and corrections, often under conditions of limited language competence and limited support. Everyday tasks that were once automatic—finding a doctor, understanding letters from authorities, dealing with landlords, enrolling in courses—become demanding operations that require time, energy, and tolerance for uncertainty. The cognitive and emotional load is substantial and sustained.</p>"},"id":"c72a6264-5264-42a8-9228-069f1d89bd4e","isHidden":false,"type":"text"},{"content":{"text":"<p>The feeling of not belonging is reinforced by how institutions and public spaces respond to migrants. Inaccessible bureaucracies, complex forms, and opaque rules signal that the environment has not been designed with them in mind. Encounters at offices, schools, and health services may include impatience, suspicion, or subtle forms of dismissal. These experiences do not always become explicit episodes of discrimination, yet they accumulate into a sense that one’s presence is conditional and fragile. The city appears available in principle but restricted in practice.</p>"},"id":"f5c5bd47-a89e-4586-a10f-b759a423743c","isHidden":false,"type":"text"},{"content":{"text":"<p>Housing conditions intensify or mitigate this situation. Many migrants and people in exile begin their lives in new places in precarious accommodation: shared rooms with strangers, overcrowded apartments, temporary shelters, or housing in areas with limited services and poor connections. Privacy is scarce, noise is high, and the threat of sudden displacement remains in the background. Under such conditions, it becomes difficult to create routines, to rest, or to imagine a stable future. Psychological strain is not simply a reaction to past events. It is produced daily by the spatial and institutional arrangements of the host society.</p>"},"id":"66d0ebf1-247d-4f64-9d2d-0a922137a868","isHidden":false,"type":"text"},{"content":{"text":"<p>Public space also operates differently for those perceived as foreign. Bodies coded as non-local may attract attention, questions, or hostility. Speaking another language, dressing differently, or simply looking out of place can lead to comments, policing, or avoidance. People learn which areas feel more tolerant, which shops are welcoming, which parts of the city are better avoided. Their mental map of the city diverges from official maps. There are safe routes and dangerous routes, places where one can relax and places where one remains on guard. This constant monitoring of the environment is a form of work that has health costs over time.</p>"},"id":"e7ddc6ff-d9e2-4398-b657-d2034ff3b962","isHidden":false,"type":"text"},{"content":{"text":"<p>Exile adds another dimension. For those who did not leave by choice, or who cannot easily return, the relationship to the new place is complex. The new city must become livable while the old one remains present in memory and imagination. Familiar forms of social life, food, language, humour, and gesture are missing or only available in fragmented form. Homesickness is not a trivial sentiment; it is a response to the loss of environments that supported identity and attachment. Creating a new life in a new place requires reconstructing those supports under different conditions, often with limited resources and in the face of structural barriers.</p>"},"id":"a9f4c816-6f92-4321-9af2-9ddc901eb3ec","isHidden":false,"type":"text"},{"content":{"text":"<p>These experiences are not uniform. Legal status, race, class, education, and prior familiarity with the host culture strongly shape how migration and exile are lived. Some migrants arrive with networks, language skills, and financial cushions that ease entry. Others arrive in conditions of extreme vulnerability. Yet across these differences, the theme of not belonging recurs in various forms: as a sense of being out of place, as constant self-monitoring, as hesitation to use public space, as fear of authorities, as uncertainty about long-term prospects.</p>"},"id":"8d463caa-dfe5-49c0-beb0-089d9dc751b4","isHidden":false,"type":"text"},{"content":{"text":"<p>From a health perspective, it is important to understand these states not only as individual psychological reactions, but as responses to concrete spatial and institutional arrangements. Disorientation, anxiety, and exhaustion are linked to how cities are organised, how services are accessed, how neighbourhoods are segregated, and how everyday encounters unfold. Policies on housing, residence permits, language courses, and labour markets are part of this, but so are smaller-scale factors: whether signage includes multiple languages, whether staff in public offices have time and training to interact with newcomers, whether local communities create spaces where migrants can participate without being treated primarily as guests or problems.</p>"},"id":"fdf4cbfe-293c-4b70-b1b4-ccf9e3b46f86","isHidden":false,"type":"text"},{"content":{"text":"<p>Acknowledging this does not remove the difficulties of migration and exile, but it shifts how responsibility is understood. Feelings of not belonging are not private failures to integrate. They are, to a significant degree, effects of environments that make belonging easier for some and harder for others. Any serious concern with urban health needs to consider how cities can become places where people who arrive from elsewhere can gradually form attachments, develop a sense of continuity, and inhabit public space without constant vigilance.</p>"},"id":"2d4b02cf-7355-4a7f-b67a-07b14676c116","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: ha7fxdos1c4qx2sf

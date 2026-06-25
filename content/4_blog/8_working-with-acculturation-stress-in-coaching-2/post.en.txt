@@ -1,0 +1,37 @@
+Title: Working with acculturation stress in coaching #2
+
+----
+
+Date: 2026-04-20
+
+----
+
+Body: [{"content":{"text":"<p>I have shared reflections on coaching people who moved from Mediterranean countries to Germany and introduced acculturation stress as an important aspect of that process. I described four dimensions that often appear in coaching. In this post, I focus on the first: learning new social norms.</p>"},"id":"d41da6ae-d07f-4dc6-bdc4-8b0929420a18","isHidden":false,"type":"text"},{"content":{"text":"<p>I often see how much effort goes into understanding everyday interactions. A brief exchange at work, the tone of an email, the way people greet each other, or the level of directness in conversation can create uncertainty and remain on someone’s mind for a long time. As a migrant myself, I have had similar experiences, trying to understand what is expected, how to respond, and how to position myself in a context shaped by different social codes.</p>"},"id":"6ab3d536-a19c-486e-990b-0efe4c8c078a","isHidden":false,"type":"text"},{"content":{"text":"<p>Many of the people I work with spend considerable time observing, interpreting, adjusting, and reflecting. This work is rarely visible to others, yet it requires sustained attention and emotional energy. Over time, it can influence confidence, a sense of ease, and the feeling of being at home in a new environment.</p>"},"id":"e59f7f1b-128c-4398-956a-52a661079dfd","isHidden":false,"type":"text"},{"content":{"text":"<p>As a coach, I see part of my task in helping coachees describe these experiences. When they begin to recognise that this effort is substantial and that their reactions are understandable, a different space for reflection becomes possible. From there, we can look more closely at what they notice, what is important to them, and how they wish to relate to the norms around them in a way that feels grounded and sustainable.</p>"},"id":"265c61f8-5293-4fab-9de3-1a17447691bb","isHidden":false,"type":"text"},{"content":{"text":"<p>Working with acculturation stress in this area involves paying attention to these subtle forms of adjustment. It involves supporting people as they find orientation in a new cultural context while staying connected to their own values and ways of relating.</p>"},"id":"beb8c29e-fe96-48e6-a346-2f6bccc5219c","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: us1xrvyl6nuny5cc

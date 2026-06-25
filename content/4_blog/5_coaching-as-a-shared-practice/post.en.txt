@@ -1,0 +1,37 @@
+Title: Coaching as a shared practice
+
+----
+
+Date: 2025-10-10
+
+----
+
+Body: [{"content":{"text":"<p>My coaching training has highlighted how much the discipline develops through reflection, dialogue, and feedback.</p>"},"id":"b8ffee53-3a7f-46a4-a706-e06c18da139d","isHidden":false,"type":"text"},{"content":{"text":"<p>Frameworks and techniques are helpful, yet much of my learning takes place after sessions. I spend time reflecting on my responses, discussing experiences with peers, and examining my work in supervision. These practices help me notice patterns, assumptions, and areas where I may need to adjust my approach.</p>"},"id":"42b2c94a-6b08-4af0-aa69-3dfb7c89d4b7","isHidden":false,"type":"text"},{"content":{"text":"<p>Self-reflection offers a way to observe my own habits as a coach. Conversations with peers introduce new questions and alternative ways of framing situations. Supervision, at its best, provides a structured space to explore uncertainty and complexity with support rather than judgement.</p>"},"id":"3d1316cc-d885-4bbf-a4d9-fda338775bee","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching takes place in one-to-one conversations, and becoming a coach is a collective process. Recognising this has helped me feel more grounded in my work and more aware of how much I learn in relation to others.</p>"},"id":"1495ebfd-ce10-49f4-ab6f-46210b36d47c","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: s3h2ewrq4vdpdqq2

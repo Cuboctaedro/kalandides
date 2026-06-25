@@ -1,0 +1,37 @@
+Title: Career choices and emotional strain in young adults
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>When I speak with young adults about career choices, I often notice that the difficulty is less about identifying a single preference and more about holding together several competing demands. They are trying to align a still-forming self-image, their interests and passions, their emerging skills, the expectations of family and peers, and the shifting realities of the job market. This process is not only cognitive; it is emotionally taxing.</p>"},"id":"35b2b5b0-34c5-4c08-b534-8e0ff5986301","isHidden":false,"type":"text"},{"content":{"text":"<p>Many arrive with the sense that a “right” choice exists, and that failing to find it in time will have irreversible consequences. The decision is experienced as a test of identity: not only “What do I want to do?” but “Who am I allowed to become?” Family histories, cultural narratives, and economic pressures converge in this moment. The result can be a mixture of pressure, guilt, and paralysis, particularly when their own inclinations do not align neatly with what their environment signals as legitimate or prestigious.</p>"},"id":"d5a3593b-81ee-433d-9c24-7eb3bb31282d","isHidden":false,"type":"text"},{"content":{"text":"<p>From my decades in higher education, I have seen several generations navigate these tensions under different structural conditions. This longer view helps me recognise patterns that repeat: the idealisation of certain careers, the fear of disappointing parents, the oscillation between following one’s interests and securing stability. It also makes clear how much the labour market has changed, and how unrealistic it is to expect a single early decision to determine a linear path.</p>"},"id":"9251f0f2-3f82-4580-b0ba-ed4d26ea60a5","isHidden":false,"type":"text"},{"content":{"text":"<p>In coaching, I try to create a space where these multiple layers can be named without being immediately resolved. We map not only options and skills, but also obligations, fantasies, and fears of exclusion or failure. The young person’s emotional responses—anxiety, resentment, excitement, boredom—are treated as information about the fit between different paths and their sense of self, rather than as noise to be suppressed in order to “decide rationally.”</p>"},"id":"3c3d72b9-acae-4188-908d-28d09871356a","isHidden":false,"type":"text"},{"content":{"text":"<p>What often becomes apparent is that no option fully satisfies all demands. Any choice involves loss: of alternative identities, of imagined futures, of certain forms of approval. Part of the work is to support young adults in tolerating this loss without interpreting it as evidence that they have chosen wrongly or that they are inadequate. My experience as a teacher helps here, because I have followed former students across decades and know that initial choices are rarely final, and that paths can be revised.</p>"},"id":"7767bb08-26cf-4687-9500-de7ca179205d","isHidden":false,"type":"text"},{"content":{"text":"<p>I find it important to reframe career decisions less as definitive statements about who one is, and more as provisional commitments under specific conditions. This does not remove the emotional strain, but it can reduce the sense of fatality that often accompanies it. Coaching then becomes a context in which young adults can examine how they are negotiating the demands of self-image, interest, skill, expectation, and economic reality—and where they can practice holding these tensions without collapsing into either resignation or forced certainty.</p>"},"id":"9658e4be-e60f-40da-aab9-983b4dd0800b","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: jamcyq0zkgfciedv

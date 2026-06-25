@@ -1,0 +1,37 @@
+Title: On gender, trust, and the fragility of masculinity
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>I have become increasingly attentive to the role of gender in coaching, both in how coachees position themselves and in how they relate to me. As a man working primarily with men, I notice that gender, far from being a neutral variable (but that would be a truism) structures expectations, shapes communication, and influences what can be said, and how.</p>"},"id":"35635177-33c5-4e0a-9b79-06f3d830c2fe","isHidden":false,"type":"text"},{"content":{"text":"<p>In practice, I often encounter a form of trust that appears to be mediated by shared gender. Certain disclosures seem to become more accessible, particularly around vulnerability, uncertainty, and perceived failure. This trust is not necessarily explicit, yet it operates as a condition of the interaction. It raises questions about identification, legitimacy, and the implicit norms that govern what is speakable between men.</p>"},"id":"6c2429ff-b6c5-460c-9411-1489fac2342d","isHidden":false,"type":"text"},{"content":{"text":"<p>At the same time, I find aspects of contemporary masculinity difficult to ignore. There is a fragility that presents itself in different forms: defensiveness, rigidity, and at times an underlying potential for aggression. This fragility does not always appear directly. It can remain latent, emerging under conditions where identity feels threatened or destabilized.</p>"},"id":"2ddabf56-5167-416e-912c-0734b5e09a93","isHidden":false,"type":"text"},{"content":{"text":"<p>What concerns me is how easily this dimension is overlooked in coaching conversations. When masculinity is treated as an unmarked category, its influence remains unexamined. Patterns of control, avoidance, or withdrawal may be interpreted at an individual level, without sufficient attention to the broader gendered structures that sustain them.</p>"},"id":"64db05c7-ba11-4a01-94fd-00659809afe3","isHidden":false,"type":"text"},{"content":{"text":"<p>This places a particular demand on my position as a coach. Shared gender can facilitate access, yet it also risks reinforcing the very patterns that require examination. The interaction can reproduce familiar modes of relating, including those that limit reflection or deflect vulnerability.</p>"},"id":"2b5af14b-4ca7-4d9a-bc77-2ef55dd360ee","isHidden":false,"type":"text"},{"content":{"text":"<p>Working within this tension requires a degree of precision. It involves recognizing the relational advantages that gender may afford, while maintaining a critical awareness of how masculinity is enacted within the coaching space. This includes attending to moments where trust enables exploration, as well as moments where it may constrain it.</p>"},"id":"ab38f801-79a7-4005-afda-58b7965785eb","isHidden":false,"type":"text"},{"content":{"text":"<p>I am interested in continuing to examine how these dynamics unfold, and what it means to work with them responsibly. Gender is neither incidental nor determinant, yet it remains a structuring presence that shapes the conditions under which coaching takes place.</p>"},"id":"2fe82eb6-ca3c-4b9f-97be-7d6a291d716c","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 2hruyhnmimx4cqc9

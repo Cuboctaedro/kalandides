@@ -1,0 +1,37 @@
+Title: Toward a coaching of everyday wellbeing
+
+----
+
+Date: 2026-06-15
+
+----
+
+Body: [{"content":{"text":"<p>My work is moving further toward questions of health in everyday life, and toward how coaching can support people who want to relate differently to their own wellbeing. I am interested in the texture of ordinary days: how bodies feel as they move through different spaces, how time is organised and perceived, how environments invite or obstruct rest, and how relationships shape a sense of stability or unease. Coaching offers a setting in which these elements can be examined with more care, so that people can explore how the way they live from morning to night affects their capacity to think, to feel, and to recover.</p>"},"id":"c9a89329-df27-4c24-ba25-dc5d54c936aa","isHidden":false,"type":"text"},{"content":{"text":"<p>This orientation became more concrete during a training session on mindfulness, when I returned to a practice from my academic work: eating with awareness. In that practice, attention stays with the concrete act of eating, and the pace of the meal slows enough for textures, smells, sounds, and flavours to become more tangible. The body’s responses are easier to register, and a meal appears not only as fuel or interruption, but as a moment in which one relates to food, to one’s own body, and to the situation in which eating takes place, whether this is a quiet kitchen, a crowded office, or a moving train. The practice is simple in its form and yet it opens a series of questions about how such moments usually pass almost unnoticed, even though they shape the rhythm of a day.</p>"},"id":"57538a4d-2697-4f56-9813-0bd760743b66","isHidden":false,"type":"text"},{"content":{"text":"<p>Working with eating in this way leads into broader questions that extend well beyond food. A meal can be approached as a task to complete between other obligations, or as an experience of care that includes preparation, timing, and the choice of where and with whom to eat; each of these approaches produces a different bodily and emotional climate. Attention can be thin and scattered when someone eats in front of a screen or while standing in a corridor, or it can be more gathered when the pace and setting support some degree of presence. The emotional tone of a period of life - whether tense, hurried, resigned, or relatively spacious - enters into how food is chosen, prepared, and consumed, and once this is noticed, new options sometimes become visible.</p>"},"id":"ff639f0d-0461-4778-afad-3888187204cd","isHidden":false,"type":"text"},{"content":{"text":"<p>Food is only one entry point into everyday wellbeing, which emerges from a wider field of relations and routines. Health, in this sense, involves how someone sleeps and wakes, how they move between home, work, and public spaces, how much noise and artificial light they encounter, how their home is arranged, and how their relationships support or deplete them over time. It concerns the sequences that structure mornings and evenings, the degree to which devices permeate waking and resting hours, and the many small decisions that accumulate into patterns that can stabilise or erode wellbeing. Rather than appearing as a fixed state, health becomes an ongoing negotiation with bodies, spaces, time pressures, and relational demands.</p>"},"id":"ebe34929-fcd6-4f45-95e8-e8474ecb48d1","isHidden":false,"type":"text"},{"content":{"text":"<p>In my coaching practice, I would like to continue developing this attention to everyday wellbeing and to the environments within which it is pursued. This means working with the concrete organisation of daily life and the conditions under which someone is currently living. The focus includes how a person’s way of arranging their days affects their capacity to recover, to concentrate, to experience pleasure, and to feel connected to others, as well as how external constraints such as housing, work schedules, caring responsibilities, and financial pressures shape what is actually possible. Everyday wellbeing depends on adjustments across several dimensions that together make life feel more or less livable.</p>"},"id":"a8db51ce-ef9f-4b7e-b725-d42ccdbddfd0","isHidden":false,"type":"text"},{"content":{"text":"<p>A coaching of everyday wellbeing, as I understand it, pays close attention to how people inhabit their days and the spaces that hold those days. The work involves exploring where small shifts are realistic - in pacing, in spatial arrangements, in routines, in the use of attention - while keeping in view the larger systems and structures that organise what is feasible. The aim is not to design an ideal lifestyle according to external standards, but to support a more conscious relationship with the conditions under which one is already living, and to identify changes that can make those conditions more compatible with physical and mental health over time.</p>"},"id":"7853535b-48ba-4a38-b0e1-8ff1c2195d4d","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 2typjnegewntgmnp

@@ -1,0 +1,37 @@
+Title: Walkable cities and embodied wellbeing
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>In earlier pieces, I have written about cities and the health of their inhabitants, about housing and psychological stability, about green spaces and restoration, and about spaces of encounter and inequality. A further dimension that connects these themes is walkability. The way a city supports or obstructs walking has direct consequences for how bodies move, how time is experienced, and how everyday life is organised. Walking is not only a mode of transport. It is a way in which people inhabit their environment, sense their own bodies, and enter into contact with others.</p>"},"id":"7971b207-3245-45b5-9d78-d770d7d5ac9e","isHidden":false,"type":"text"},{"content":{"text":"<p>Walkable cities offer continuous pavements, safe crossings, reasonable distances between everyday destinations, and routes that feel legible and inviting. Under such conditions, walking becomes a normal part of daily routines rather than an activity that has to be added separately as “exercise.” The body accumulates movement in small increments: going to the shop, visiting a friend, taking a child to school, using public transport. These movements influence cardiovascular health, muscular tone, and metabolic processes. They also affect mood and attention. Many people report that walking helps them think, reduces feelings of confinement, and allows worries to reorganise themselves in a different rhythm.</p>"},"id":"1e753a16-7d39-47d3-9b12-8bc151f9f8f5","isHidden":false,"type":"text"},{"content":{"text":"<p>The experience of time changes when distances can be covered on foot. Short trips become events with a beginning, middle, and end, rather than mere intervals inside vehicles. One can see seasons change in familiar streets, notice small alterations in the built environment, and register the presence and absence of neighbours and local businesses. Time in transit becomes time in contact with the surroundings, not only a gap to be endured. This integration of movement, perception, and duration has implications for how days are remembered and for how connected people feel to the places they pass through.</p>"},"id":"b21b3207-6f36-4ae0-ba7f-f4496ceac6bc","isHidden":false,"type":"text"},{"content":{"text":"<p>Car-dependent environments organise life differently. Long distances between housing, workplaces, and services, discontinuous pavements, and streets designed primarily for vehicles make walking inconvenient or unsafe. In such settings, many movements are made by car or other motorised transport, even over relatively short distances. The body spends more time sitting, and time in transit is often spent in traffic or in isolated compartments. The city is experienced through windshields, brief entries and exits, and parking lots. Informal contact with others in public space diminishes, and opportunities for incidental physical activity shrink.</p>"},"id":"4d077dda-f040-48d5-a201-f442a6bf28a3","isHidden":false,"type":"text"},{"content":{"text":"<p>Inequality appears here as well. Neighbourhoods with good walkability often coincide with areas that have better services, more green space, and higher housing costs. They provide residents with easier access to shops, schools, health facilities, and cultural venues without the need for a car. In other areas, basic services are farther away, pavements are broken or absent, and traffic is more dangerous. Residents then rely more heavily on private vehicles or on public transport that may be infrequent or unreliable. These differences shape who can age in place, who can allow children to move independently, and who can maintain social ties without significant effort and expense.</p>"},"id":"d4eabb11-4531-444d-a7ef-aba3d8c48a65","isHidden":false,"type":"text"},{"content":{"text":"<p>Walkability is also linked to safety and perceived legitimacy. For women, queer people, migrants, and others who face harassment or discrimination, walking through the city is not simply a health practice. Routes are chosen with attention to lighting, visibility, density, and escape options. Areas that are theoretically walkable may be practically unusable at certain times or for certain groups. The capacity to use walking as a mode of everyday inhabitation is therefore unevenly distributed. Some bodies move with relative ease; others move under constant evaluation of risk.</p>"},"id":"84985f37-b43d-45d9-bcf2-324419466860","isHidden":false,"type":"text"},{"content":{"text":"<p>Thinking about walkability in relation to health means looking at this entire configuration. It involves asking where pavements exist and where they are interrupted, where crossings are safe, where slopes and surfaces exclude people with limited mobility, and where everyday destinations are located relative to housing. It also involves considering how walking is framed culturally: whether it is seen as a respectable and realistic way of getting around, or as something reserved for those who cannot afford other options.</p>"},"id":"6f64dc31-6288-4cd3-a7de-f2f1933d7880","isHidden":false,"type":"text"},{"content":{"text":"<p>From a health perspective, walkable cities support embodied wellbeing by integrating movement into daily life, by making environments perceptible at a human pace, and by multiplying occasions for low-intensity social contact. Car-dependent cities concentrate movement into isolated episodes and make physical activity a separate task that must compete with other demands on time and energy. Recognising this difference does not provide an immediate solution, but it clarifies that urban form is not neutral. It participates in shaping how bodies and lives unfold, and it does so within patterns of inequality that determine who benefits from walkable environments and who is left with fewer options.</p>"},"id":"01da3deb-33f4-461f-8238-94c5337b8f07","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: d5xuixuirruwzpux

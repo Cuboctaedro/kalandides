@@ -1,0 +1,37 @@
+Title: Thinking about what we know in coaching
+
+----
+
+Date: 2025-09-10
+
+----
+
+Body: [{"content":{"text":"<p>Alongside methods and tools, my coaching training prompted a more philosophical reflection: what can we say we really know when we speak about someone’s experience?</p>"},"id":"b99c28d1-a94b-4b4c-8b91-e6ef254afc0c","isHidden":false,"type":"text"},{"content":{"text":"<p>I have long felt uneasy with the idea that everything is only a matter of perspective, as if nothing exists beyond interpretation. I am equally sceptical of the assumption that there is a single, objective truth that we can fully access if we analyse carefully enough. Neither of these positions seems to reflect how people actually live and make sense of their lives.</p>"},"id":"8d35a6ee-32bd-4995-b258-b823c7dd8061","isHidden":false,"type":"text"},{"content":{"text":"<p>Encountering the framework of critical realism offered a helpful alternative. It proposes that there is a reality with structures and causes that shape what happens, while also recognising that people interpret and give meaning to this reality in different ways. For coaching, this provides a way of thinking that takes both outer circumstances and inner experience seriously.</p>"},"id":"ec7265a7-2aff-4322-9d40-d0d0492fbb87","isHidden":false,"type":"text"},{"content":{"text":"<p>In practice, this means I do not try to reduce a client’s story to a simple account of what “really happened”, and I also do not dismiss the influence of their environment. I work in the space between: what is felt, what is happening, and how it becomes meaningful for the person.</p>"},"id":"fcb3fb0a-34d7-4d6c-b756-7d81d73fff10","isHidden":false,"type":"text"},{"content":{"text":"<p>I now carry this orientation into my sessions. It supports me in listening with attention to both the world around the client and the way they understand their place within it.</p>"},"id":"86fa79f7-8db7-42ad-a222-2a913363307e","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: wchcyvpuu7icnuda

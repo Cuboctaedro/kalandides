@@ -1,0 +1,37 @@
+Title: Teaching and coaching
+
+----
+
+Date: 2026-03-25
+
+----
+
+Body: [{"content":{"text":"<p>For more than forty years I have been teaching. During this time, I have learned to stand in front of a room with clarity, to hold attention, to structure knowledge, and to guide a group of students through complexity, ambiguity, disagreement, and discovery without losing direction or intellectual focus. Teaching, for me, involves shaping a space in which I share my own knowledge, where arguments are tested, where language is sharpened, and where students build trust in their capacity to analyse the world with precision and responsibility.</p>"},"id":"696c3b42-7c66-4ab3-9f61-3032b883e0a4","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching entered my professional life much later and required a different stance. In this work, there is no syllabus, no sequenced curriculum, and no group dynamic that creates energy. There is one person, with questions, hesitations, and silences that need recognition and respect. I realised that the discipline I developed as a teacher — structure, clarity, and intellectual framing — needed adjustment. I slowed down, reduced explanation, and made space for another person’s thinking to develop at its own pace.</p>"},"id":"07408048-c3e4-41f7-8382-ee328e74134a","isHidden":false,"type":"text"},{"content":{"text":"<p>In the classroom, I hold authority, even when I try to decentralise it, because experience, knowledge, and institutional responsibility are part of my role. In coaching, I step back from that authority and work with deliberate restraint. My task is to listen with precision, to notice what is said and what is left unsaid, and to ask questions that open up reflection rather than steer it. The move from explaining to accompanying has been one of the most demanding shifts in my professional life.</p>"},"id":"ba59256a-90e9-46f9-be8b-c5cdc3872081","isHidden":false,"type":"text"},{"content":{"text":"<p>As a teacher, I attend to content, references, the coherence of arguments, and the way ideas move across time and context. As a coach, I attend to breathing, posture, small changes in tone, and the moment when someone recognises something about themselves and stays with that recognition before speaking. The scale is smaller, the tempo is slower, and the sense of responsibility changes, because the focus is on personal decisions, conflicts, transitions, and acts of courage.</p>"},"id":"e77d1bb1-781f-4afc-9608-91d90329728b","isHidden":false,"type":"text"},{"content":{"text":"<p>After four decades in education, I thought I understood how learning happens. Coaching has shown me that learning can be subtle and that insight often appears in fragments rather than firm conclusions. Teaching asks me to prepare, design, evaluate, and assess. Coaching asks me to stay present, to tolerate uncertainty, and to trust that clarity emerges from within the person sitting opposite me.</p>"},"id":"989ea7fe-c248-473e-a900-0b8ab319503e","isHidden":false,"type":"text"},{"content":{"text":"<p>Both practices shape me in distinct ways. Moving between them keeps me attentive, disciplined, and clear about where my influence is needed and where it has to stop.</p>"},"id":"a473cfc0-0753-4ad4-8c5e-5156960ca85d","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: zgjjmtsy9b9acc58

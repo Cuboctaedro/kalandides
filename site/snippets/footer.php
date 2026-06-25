@@ -9,7 +9,7 @@
 ?>
 </main>
 
-<footer class="container mx-auto px-4">
+<footer class="container mx-auto px-4 flex-none">
     <div class="border-t border-gray-300 flex flex-col sm:flex-row items-start justify-between gap-6 font-sans py-6 mt-12">
         <div>
             <?php

@@ -17,6 +17,15 @@ tabs:
       date:
         label: Publication date
         type: date
+      body:
+        label: Content
+        type: blocks
+        fieldsets:
+          - text
+          - heading
+          - list
+          - image
+
       text:
         label: Content
         type: writer
@@ -32,6 +41,13 @@ tabs:
           - orderedList
           - horizontalRule
           - quote
+
+  files:
+    sections:
+      gallery:
+        label: Images
+        type: files
+        template: gallery
 
   meta:
     fields:

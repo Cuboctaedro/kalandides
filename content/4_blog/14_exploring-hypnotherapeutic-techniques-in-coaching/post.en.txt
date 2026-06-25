@@ -1,0 +1,37 @@
+Title: Exploring hypnotherapeutic techniques in coaching
+
+----
+
+Date: 2026-02-20
+
+----
+
+Body: [{"content":{"text":"<p>Yesterday, I made my first attempt at guiding a hypnotherapeutic process. The experience was striking.</p>"},"id":"382e03e3-1e5a-407d-8e15-50d107cb8259","isHidden":false,"type":"text"},{"content":{"text":"<p>I have often found meditation difficult. I rarely manage to calm my mind or sustain concentration for long periods. At the same time, I have noticed that I am able to support others in focusing.</p>"},"id":"371dd482-b887-4179-b202-a9ecbf6b5e6c","isHidden":false,"type":"text"},{"content":{"text":"<p>For several years, I have used short grounding exercises in university seminars. Students often arrive feeling anxious, distracted, or distant from the course content. Together with a counsellor colleague, I developed a simple five-minute meditation script to help participants arrive and relax. I have used this script with good results, particularly in groups where trust and a sense of safety have already been established.</p>"},"id":"109fa868-c14e-4fd2-aefb-97d084b46de2","isHidden":false,"type":"text"},{"content":{"text":"<p>The approach does not suit every group or situation. Without a solid foundation, it can feel awkward or intrusive. I therefore keep participation voluntary; students who prefer not to take part can step outside and return afterwards. The setting also requires preparation. The room needs to be calm, interruptions minimised, and a clear signal given that the session should not be disturbed.</p>"},"id":"3067012f-6212-4bce-8345-844b7665d0c8","isHidden":false,"type":"text"},{"content":{"text":"<p>When these conditions are in place, the effects are noticeable. The exercises support connection between me and the participants and among the participants themselves, and they help people settle and focus.</p>"},"id":"1d0e57e4-572b-43f6-8eea-61b4f2119e13","isHidden":false,"type":"text"},{"content":{"text":"<p>The process I led yesterday was different in several respects. As part of my coaching education, I was asked to design and guide a hypnotherapeutic sequence: clarify the client’s challenge, write a script, and conduct the process with attention to wording, rhythm, tone, pacing, and music.</p>"},"id":"c9a7410a-4347-4f9c-823c-19a597d75ccd","isHidden":false,"type":"text"},{"content":{"text":"<p>I expected this task to be demanding, because I often find it hard to concentrate when someone else guides me. After about twenty minutes, something unexpected occurred. My own voice seemed to have an effect on me. I noticed a shift that resembled a trance state, even though I was in the guiding role rather than the receiving role.</p>"},"id":"eaa8aadd-27a1-4518-bd9a-bac0d843952f","isHidden":false,"type":"text"},{"content":{"text":"<p>The experience is difficult to describe in precise terms. Hearing my voice from within my own body, combined with breathing and rhythm, created a strong internal resonance. This, in turn, contributed to a sense of connection with the client that I had not anticipated.</p>"},"id":"c1257223-4c63-48de-87c3-61f375523958","isHidden":false,"type":"text"},{"content":{"text":"<p>I am still analysing what happened and how to understand it. For now, I see it as the beginning of a new skill area and as something I would like to develop further in my coaching practice.</p>"},"id":"f0b4194e-8605-41b4-bbdb-89538559a659","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 4dlbvmzbycbybgxf

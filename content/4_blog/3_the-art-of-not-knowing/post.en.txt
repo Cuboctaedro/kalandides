@@ -1,0 +1,37 @@
+Title: The art of not knowing
+
+----
+
+Date: 2026-05-20
+
+----
+
+Body: [{"content":{"text":"<p>A recurring sentence in my coaching training was: “You do not need to know.”</p>"},"id":"23b5e1a6-26eb-48e2-8f6e-b5bd5c15aa67","isHidden":false,"type":"text"},{"content":{"text":"<p>This idea is familiar to me from conflict mediation, where I have learned to hold space without rushing to conclusions, to ask questions without steering, and to work with uncertainty. Mediation has shown me that not knowing can be an honest and constructive position.</p>"},"id":"439dcd26-e925-4811-b392-c90bbcaf1e8b","isHidden":false,"type":"text"},{"content":{"text":"<p>Coaching has made this stance more deliberate. In this context, not knowing functions as a form of trust: trust in the process, in the client, and in the possibility that insight develops over time when the conversation is held with care and attention.</p>"},"id":"3b53f267-a7a1-4d9d-b537-6d7570ed7cfa","isHidden":false,"type":"text"},{"content":{"text":"<p>Working in this way involves letting go of the impulse to guide, listening without a fixed agenda, allowing silence and confusion, and observing when new directions start to appear. It involves confidence that the person in front of me is already engaged in a movement toward greater clarity, even when this is not yet fully visible.</p>"},"id":"8c727374-7e81-423f-aa51-d042425ee77f","isHidden":false,"type":"text"},{"content":{"text":"<p>This approach is active rather than passive. It is a conscious decision to respect the coachee’s agency and to focus on facilitating their reflection rather than supplying answers.</p>"},"id":"a5421d0a-6a2d-49b2-83ef-9d1d3a6d5b98","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: kmdlpa6z0dfyj4xx

@@ -1,0 +1,37 @@
+Title: Coaching in social context
+
+----
+
+Date: 2026-03-10
+
+----
+
+Body: [{"content":{"text":"<p>In my training, I often returned to the question of where coaching takes place in social, cultural, and ethical terms. Many discussions in the coaching field present it as a primarily individual practice. Personal development is an important focus, yet no person lives or changes in isolation.</p>"},"id":"e8dd3322-b82e-49c2-abc5-22aa5b2f6207","isHidden":false,"type":"text"},{"content":{"text":"<p>People are influenced by systems around them, including power relations, cultural expectations, family histories, gender norms, and economic conditions. A coaching process that does not consider these factors can end up strengthening existing patterns without intending to do so.</p>"},"id":"e6067cc6-0e61-439c-92f8-1b0a3c61c9fd","isHidden":false,"type":"text"},{"content":{"text":"<p>I understand coaching as a relational practice. This leads me to ask what assumptions are shaping a client’s challenge, which context a particular goal is developing in, and what the person is resisting, adapting to, or carrying without naming it.</p>"},"id":"33e8f0ce-aecb-4d5a-8672-ca5d9d066f2f","isHidden":false,"type":"text"},{"content":{"text":"<p>Change takes place within individuals and also in their interactions with others, in communities, and within established structures. When this broader perspective is absent, coaching can drift toward a narrow focus on self-optimisation that is disconnected from the wider world.</p>"},"id":"96594afd-95a4-47e4-8f1f-7b8ea159b680","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: hoang05ll5n82nbv

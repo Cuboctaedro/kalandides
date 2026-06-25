@@ -1,0 +1,37 @@
+Title: Working with strengths in coaching
+
+----
+
+Date: 2025-06-09
+
+----
+
+Body: [{"content":{"text":"<p>Early in my coaching training, I became aware of a strong emphasis on trauma, limiting beliefs, and what is not working in a person’s life. While I see the value of addressing difficult experiences, I also felt the need to explore other entry points into change.</p>"},"id":"b9dead52-2a89-410c-af26-4d90e68b287a","isHidden":false,"type":"text"},{"content":{"text":"<p>This led me to positive psychology. Its focus on strengths, values, purpose, and growth resonated with my interest in supporting clients in building on their existing resources and potential. At the same time, it raised important questions about how to respond to pain, doubt, and a sense of being stuck.</p>"},"id":"a0554477-1bbe-4d58-9dda-341961b9b08d","isHidden":false,"type":"text"},{"content":{"text":"<p>I remain cautious about positive psychology as a whole. Some of its claims can appear superficial, and I do not see it as a complete framework. My approach here is eclectic, in line with integrative methods: I draw on specific elements that are useful in practice and leave aside those that do not fit the needs of a particular client or context.</p>"},"id":"b104ae7b-5303-4c94-83f9-9f981eebbe15","isHidden":false,"type":"text"},{"content":{"text":"<p>I am learning that a strengths-based approach can acknowledge and hold difficult emotions without ignoring them. It can help clients recognise resilience, persistence, and self-awareness as forms of strength, even in challenging circumstances.</p>"},"id":"0f73fa6a-95a1-4b55-8104-0f61af3471c6","isHidden":false,"type":"text"},{"content":{"text":"<p>In my coaching practice, I aim to create space for both challenge and possibility. I want to support clients in engaging with what hurts and with what helps them move forward.</p>"},"id":"7039bb7f-1d12-4269-9b4e-c0028904d7de","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: 7fex417c1n0k3ejy

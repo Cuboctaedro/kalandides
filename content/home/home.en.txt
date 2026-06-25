@@ -19,11 +19,8 @@ Parts:
   heading: 'Who This May Be For'
   text: '<ul><li><p>People going through crisis, change, or uncertainty.</p></li><li><p>People who feel lost, overwhelmed, or unsure how to regain direction in everyday life.</p></li><li><p>People navigating unemployment, career change, or questions about work.</p></li><li><p>People living between cultures or adapting to a new country.</p></li><li><p>People who are exploring their sexual and/or gender identity and are looking for a space where these can be voiced and heard openly.</p></li><li><p>Young adults looking for orientation in their lives and for future goals.</p></li></ul>'
 -
-  heading: 'My Coaching Philosophy'
-  text: '<p><em>“I believe people are capable of meaningful change, and my role as a coach is to create the conditions in which that change can become possible. I bring respect, curiosity, and clarity to each session, recognising that your challenges and decisions are shaped by your lived experience and your relationships.</em></p><p><em>My role is to support you in developing deeper insight, acting with intention, and paying attention to the social and professional contexts in which you live. I offer tools and guidance, but you remain the person who shapes your own direction.”</em></p>'
--
   heading: 'Initial Conversation'
-  text: '<p>If you are considering coaching and would like to explore whether we are a good fit, you are welcome to contact me for an initial conversation. In this first exchange, we look at what brings you to coaching, what kind of support you are seeking, and whether this way of working feels right for you.</p><p>For young adults between 18 and 25, I currently offer a limited number of coaching places free of charge. If this applies to you, you are welcome to mention it when you get in touch.</p><p>You can reach me at dr.ares.k@gmail.com</p>'
+  text: '<p>If you are considering coaching and would like to explore whether we are a good fit, you are welcome to contact me for an initial conversation. In this first exchange, we look at what brings you to coaching, what kind of support you are seeking, and whether this way of working feels right for you.</p><p>I currently offer a limited number of coaching places free of charge, to support people for whom the cost would be a barrier at this time. If this is of interest to you, please mention it when you get in touch.</p><p>You can reach me at dr.ares.k@gmail.com</p>'
 
 ----
 

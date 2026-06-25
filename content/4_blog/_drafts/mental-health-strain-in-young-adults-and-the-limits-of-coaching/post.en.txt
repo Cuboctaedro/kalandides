@@ -1,0 +1,37 @@
+Title: Mental health strain in young adults and the limits of coaching
+
+----
+
+Date: 
+
+----
+
+Body: [{"content":{"text":"<p>In conversations with young adults, mental health strain is rarely an isolated topic. It shows up in the background of discussions about study, work, relationships, and identity: persistent anxiety, exhaustion, sleep problems, difficulties concentrating, a sense of being overwhelmed or emotionally blunted. These experiences are often normalised among peers, which can make it harder to distinguish between situational stress and states that require more specialised attention.</p>"},"id":"94dd9f5b-859b-4983-8e50-65f4ff41d816","isHidden":false,"type":"text"},{"content":{"text":"<p>As a coach, I experience a tension here. On the one hand, coaching can offer a structured space to think, to slow down, and to make sense of competing demands. It can support the development of coping strategies, clearer boundaries, and more realistic expectations of oneself. On the other hand, there are clear limits to what coaching can and should address. When a young person is experiencing severe or persistent symptoms—such as deep depressive states, self-harm, suicidal thoughts, or incapacitating anxiety—the appropriate response lies outside the scope of coaching.</p>"},"id":"4bfbfd30-4955-4b87-9879-392893432ee7","isHidden":false,"type":"text"},{"content":{"text":"<p>This makes it crucial that coaches are able to recognise their own limits. The relational safety that can develop in coaching sometimes leads young adults to disclose material that borders on or crosses into the territory of psychotherapy or psychiatric care. In those moments, it is important not to overestimate the capacity of coaching as a modality. The task is less to “handle” everything that appears and more to assess, together with the coachee, what form of support is proportionate to the level of distress.</p>"},"id":"5720bb49-4462-4d94-91af-c894196cf325","isHidden":false,"type":"text"},{"content":{"text":"<p>For me, this involves paying attention not only to the content of what is being said, but to intensity, duration, and functional impact. How long has this been going on? How much does it interfere with daily life? Is the person able to engage in the kind of reflective work that coaching presupposes, or are they struggling to maintain basic routines and safety? When the latter is the case, continuing with coaching alone can become a way of avoiding the step that is actually needed.</p>"},"id":"4ea640b8-4f0d-483e-a8b7-7d2e040631b1","isHidden":false,"type":"text"},{"content":{"text":"<p>I also see a responsibility to speak about these limits explicitly with young adults. Many are uncertain about the difference between coaching and psychotherapy, or they may feel stigma around seeking clinical help. Naming that some difficulties fall outside the remit of coaching does not mean abandoning them; it means helping them orient themselves in a landscape of possible forms of support. Sometimes this includes encouraging them to contact a mental health professional, or to involve trusted adults or institutional services.</p>"},"id":"0bcb11cb-2486-49ab-b5a8-baf634a693cc","isHidden":false,"type":"text"},{"content":{"text":"<p>In this sense, working with young adults around mental health strain requires a double awareness. On one side, to use the possibilities of coaching: to clarify contexts, explore patterns, and strengthen agency where it is available. On the other, to remain vigilant about the threshold where coaching is no longer sufficient and where referring onward is an ethical necessity. Knowing where one’s practice ends is not a limitation of care, but a condition for providing it responsibly.</p>"},"id":"febf55ad-3a3a-4773-8a5e-471133fc9225","isHidden":false,"type":"text"}]
+
+----
+
+Text: 
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: []
+
+----
+
+Metaindex: false
+
+----
+
+Metafollow: false
+
+----
+
+Uuid: efgaenoruqgpclsm
