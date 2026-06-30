@@ -11,8 +11,8 @@ use Kirby\Toolkit\Str;
 snippet('header') ?>
 
 <article class="container mx-auto px-4">
-  <header class="py-48">
-    <h1 class="font-light text-3xl md:text-4xl"><?= $page->title()->html() ?></h1>
+  <header class="pt-36 pb-12">
+    <h1 class="font-bold text-xl font-sans w-full border-b border-gray-200"><?= $page->title()->html() ?></h1>
   </header>
 
   <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
